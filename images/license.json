@@ -270,5 +270,23 @@
     "projectURL": "https://phet.colorado.edu",
     "license": "contact phethelp@colorado.edu",
     "notes": "created by Matthew Blackman"
+  },
+  "KantumruyProKhmer.woff2": {
+    "text": [
+      "Copyright 2022 The Kantumruy Pro Project Authors",
+      "SIL Open Font License, Version 1.1"
+    ],
+    "projectURL": "https://github.com/googlefonts/kantumruy",
+    "license": "SIL Open Font License, Version 1.1",
+    "notes": "Khmer subset; see KantumruyPro-OFL.txt"
+  },
+  "KantumruyPro-OFL.txt": {
+    "text": [
+      "Copyright 2022 The Kantumruy Pro Project Authors",
+      "SIL Open Font License, Version 1.1"
+    ],
+    "projectURL": "https://github.com/googlefonts/kantumruy",
+    "license": "SIL Open Font License, Version 1.1",
+    "notes": "Font redistribution license"
   }
 }

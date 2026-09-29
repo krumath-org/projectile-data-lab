@@ -1,0 +1,596 @@
+{
+  "credits.contributors": {
+    "value": "អ្នករួមចំណែក៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "អ្នករួមចំណែក៖ {0}"
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "សិល្បៈក្រាហ្វិក៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "សិល្បៈក្រាហ្វិក៖ {0}"
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "អ្នកដឹកនាំការរចនា៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "អ្នកដឹកនាំការរចនា៖ {0}"
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "ការធានាគុណភាព៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការធានាគុណភាព៖ {0}"
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "ការអភិវឌ្ឍកម្មវិធី៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការអភិវឌ្ឍកម្មវិធី៖ {0}"
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "ការរចនាសំឡេង៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការរចនាសំឡេង៖ {0}"
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "ក្រុមការងារ៖ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ក្រុមការងារ៖ {0}"
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "ថ្លែងអំណរគុណ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ថ្លែងអំណរគុណ"
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "ការទទួលស្គាល់ការចូលរួម",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការទទួលស្គាល់ការចូលរួម"
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "ការបកប្រែ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការបកប្រែ"
+      }
+    ]
+  },
+  "donateToPhet": {
+    "value": "បរិច្ចាគដល់ PhET",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "បរិច្ចាគដល់ PhET"
+      }
+    ]
+  },
+  "done": {
+    "value": "រួចរាល់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រួចរាល់"
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "ផ្លូវកាត់ក្តារចុច",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ផ្លូវកាត់ក្តារចុច"
+      }
+    ]
+  },
+  "license.title": {
+    "value": "អាជ្ញាបណ្ណ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "អាជ្ញាបណ្ណ"
+      }
+    ]
+  },
+  "menuItem.about": {
+    "value": "អំពី…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "អំពី…"
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "សំឡេងបន្ថែម",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "សំឡេងបន្ថែម"
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "ពេញអេក្រង់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ពេញអេក្រង់"
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "ពិនិត្យមើលបច្ចុប្បន្នភាព…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ពិនិត្យមើលបច្ចុប្បន្នភាព…"
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "ជម្រើស…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ជម្រើស…"
+      }
+    ]
+  },
+  "menuItem.outputLog": {
+    "value": "កំណត់ហេតុលទ្ធផល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កំណត់ហេតុលទ្ធផល"
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "គេហទំព័រ PhET…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "គេហទំព័រ PhET…"
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "រាយការណ៍បញ្ហា…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រាយការណ៍បញ្ហា…"
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "រូបថតអេក្រង់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រូបថតអេក្រង់"
+      }
+    ]
+  },
+  "options.title": {
+    "value": "ជម្រើស",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ជម្រើស"
+      }
+    ]
+  },
+  "preferences.tabs.audio.audioFeatures.title": {
+    "value": "មុខងារសំឡេង",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "មុខងារសំឡេង"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.description": {
+    "value": "ចាក់សំឡេងតំណាងទិន្នន័យ និងសំឡេងបែបផែននៅពេលអ្នកធ្វើអន្តរកម្ម។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ចាក់សំឡេងតំណាងទិន្នន័យ និងសំឡេងបែបផែននៅពេលអ្នកធ្វើអន្តរកម្ម។"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.title": {
+    "value": "សំឡេង",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "សំឡេង"
+      }
+    ]
+  },
+  "preferences.tabs.audio.title": {
+    "value": "សំឡេង",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "សំឡេង"
+      }
+    ]
+  },
+  "preferences.tabs.general.accessibilityIntro": {
+    "value": "យើងកំពុងបន្ថែមមុខងារនានាទៅកាន់ការពិសោធន៍ក្លែងធ្វើរបស់យើង ដើម្បីឱ្យកាន់តែមានលក្ខណៈទូលំទូលាយសម្រាប់អ្នកសិក្សាគ្រប់រូប។ មុខងារមួយចំនួនគាំទ្រដល់លទ្ធភាពប្រើប្រាស់សម្រាប់អ្នកសិក្សាដែលមានតម្រូវការចម្រុះ និងក្នុងបរិយាកាសផ្សេងៗគ្នា។ សូមស្វែងយល់ពីម៉ឺនុយនេះដើម្បីពិនិត្យឡើងវិញ ឬផ្លាស់ប្តូរការកំណត់បទបង្ហាញលំនាំដើម។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "យើងកំពុងបន្ថែមមុខងារនានាទៅកាន់ការពិសោធន៍ក្លែងធ្វើរបស់យើង ដើម្បីឱ្យកាន់តែមានលក្ខណៈទូលំទូលាយសម្រាប់អ្នកសិក្សាគ្រប់រូប។ មុខងារមួយចំនួនគាំទ្រដល់លទ្ធភាពប្រើប្រាស់សម្រាប់អ្នកសិក្សាដែលមានតម្រូវការចម្រុះ និងក្នុងបរិយាកាសផ្សេងៗគ្នា។ សូមស្វែងយល់ពីម៉ឺនុយនេះដើម្បីពិនិត្យឡើងវិញ ឬផ្លាស់ប្តូរការកំណត់បទបង្ហាញលំនាំដើម។"
+      }
+    ]
+  },
+  "preferences.tabs.general.moreAccessibility": {
+    "value": "ស្វែងរក \"មុខងារបរិយាបន្ន\" នៅលើទំព័រតម្រងការពិសោធន៍ក្លែងធ្វើនៃគេហទំព័រ PhET ដើម្បីស្វែងរកការពិសោធន៍ក្លែងធ្វើទាំងអស់ដែលមានមុខងារទាំងនេះ។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ស្វែងរក \"មុខងារបរិយាបន្ន\" នៅលើទំព័រតម្រងការពិសោធន៍ក្លែងធ្វើនៃគេហទំព័រ PhET ដើម្បីស្វែងរកការពិសោធន៍ក្លែងធ្វើទាំងអស់ដែលមានមុខងារទាំងនេះ។"
+      }
+    ]
+  },
+  "preferences.tabs.localization.languageSelection.description": {
+    "value": "ផ្លាស់ប្តូរភាសាដើម្បីបកប្រែអត្ថបទលើអេក្រង់។ ការពិពណ៌នាបន្ថែម (ប្រសិនបើមាន) នឹងនៅតែជាភាសាអង់គ្លេស។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ផ្លាស់ប្តូរភាសាដើម្បីបកប្រែអត្ថបទលើអេក្រង់។ ការពិពណ៌នាបន្ថែម (ប្រសិនបើមាន) នឹងនៅតែជាភាសាអង់គ្លេស។"
+      }
+    ]
+  },
+  "preferences.tabs.localization.languageSelection.title": {
+    "value": "ភាសា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ភាសា"
+      }
+    ]
+  },
+  "preferences.tabs.localization.title": {
+    "value": "ការធ្វើមូលដ្ឋានីយកម្ម",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការធ្វើមូលដ្ឋានីយកម្ម"
+      }
+    ]
+  },
+  "preferences.tabs.overview.title": {
+    "value": "ទិដ្ឋភាពទូទៅ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ទិដ្ឋភាពទូទៅ"
+      }
+    ]
+  },
+  "preferences.tabs.simulation.title": {
+    "value": "ការពិសោធន៍ក្លែងធ្វើ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការពិសោធន៍ក្លែងធ្វើ"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlights": {
+    "value": "ការរំលេចពណ៌នៅពេលអន្តរកម្ម",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការរំលេចពណ៌នៅពេលអន្តរកម្ម"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlightsDescription": {
+    "value": "បន្ថែមការរំលេចពណ៌សម្រាប់កណ្ដុរ និងការប៉ះបញ្ជា នៅពេលអ្នកធ្វើអន្តរកម្ម។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "បន្ថែមការរំលេចពណ៌សម្រាប់កណ្ដុរ និងការប៉ះបញ្ជា នៅពេលអ្នកធ្វើអន្តរកម្ម។"
+      }
+    ]
+  },
+  "preferences.tabs.visual.title": {
+    "value": "រូបភាព/គំហើញ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រូបភាព/គំហើញ"
+      }
+    ]
+  },
+  "preferences.title": {
+    "value": "ចំណង់ចំណូលចិត្ត",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ចំណង់ចំណូលចិត្ត"
+      }
+    ]
+  },
+  "privacyPolicy": {
+    "value": "គោលការណ៍ឯកជនភាព",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "គោលការណ៍ឯកជនភាព"
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "បង្ហាញទ្រនិចចង្អុល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "បង្ហាញទ្រនិចចង្អុល"
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាបណ្ណ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាបណ្ណ"
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "ការទទួលស្គាល់ភាគីទីបី",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការទទួលស្គាល់ភាគីទីបី"
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "ការកំណត់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការកំណត់"
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "ការទទួលស្គាល់ការបកប្រែ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការទទួលស្គាល់ការបកប្រែ"
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "កំពុងពិនិត្យមើលបច្ចុប្បន្នភាព…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កំពុងពិនិត្យមើលបច្ចុប្បន្នភាព…"
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "ធ្វើបច្ចុប្បន្នភាព…",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ធ្វើបច្ចុប្បន្នភាព…"
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "មានកំណែថ្មីដែលអាចប្រើបាន៖ {0}។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "មានកំណែថ្មីដែលអាចប្រើបាន៖ {0}។"
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "ទេ អរគុណ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ទេ អរគុណ"
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "មិនអាចពិនិត្យមើលបច្ចុប្បន្នភាពបានទេ។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "មិនអាចពិនិត្យមើលបច្ចុប្បន្នភាពបានទេ។"
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "មានកំណែថ្មី",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "មានកំណែថ្មី"
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "ការពិសោធន៍ក្លែងធ្វើនេះគឺទាន់សម័យហើយ។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការពិសោធន៍ក្លែងធ្វើនេះគឺទាន់សម័យហើយ។"
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "កំណែបច្ចុប្បន្នរបស់អ្នកគឺ៖ {0}។",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កំណែបច្ចុប្បន្នរបស់អ្នកគឺ៖ {0}។"
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "កំណែ {0}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កំណែ {0}"
+      }
+    ]
+  }
+}

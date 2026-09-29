@@ -1,0 +1,4011 @@
+{
+  "_README": [
+    "REFERENCE ONLY — same strings as km-translation-workbook.json, nested by repo.",
+    "Prefer editing km-translation-workbook.json for translation."
+  ],
+  "_meta": {
+    "project": "Projectile Data Lab",
+    "generated": "2026-09-29",
+    "totalStrings": 795,
+    "byRepo": {
+      "projectile-data-lab": 77,
+      "joist": 183,
+      "scenery-phet": 509,
+      "sun": 17,
+      "bamboo": 1,
+      "tambo": 4,
+      "twixt": 4
+    }
+  },
+  "strings": {
+    "projectile-data-lab": {
+      "projectile-data-lab.title": {
+        "en": "Projectile Data Lab",
+        "km": "បន្ទប់ពិសោធន៍ទិន្នន័យចលនាគប់",
+        "group": "sim-content"
+      },
+      "screen.variability": {
+        "en": "Variability",
+        "km": "អថេរភាព",
+        "group": "sim-content"
+      },
+      "screen.sources": {
+        "en": "Sources",
+        "km": "ប្រភព",
+        "group": "sim-content"
+      },
+      "screen.measures": {
+        "en": "Measures",
+        "km": "រង្វាស់រង្វាល់",
+        "group": "sim-content"
+      },
+      "screen.sampling": {
+        "en": "Sampling",
+        "km": "ការទាញយកសំណាក",
+        "group": "sim-content"
+      },
+      "single": {
+        "en": "Single",
+        "km": "ទោល",
+        "group": "sim-content"
+      },
+      "launch": {
+        "en": "Launch",
+        "km": "បាញ់",
+        "group": "sim-content"
+      },
+      "stop": {
+        "en": "Stop",
+        "km": "បញ្ឈប់",
+        "group": "sim-content"
+      },
+      "continuous": {
+        "en": "Continuous",
+        "km": "បន្តបន្ទាប់",
+        "group": "sim-content"
+      },
+      "noAirResistance": {
+        "en": "No air resistance",
+        "km": "គ្មានកម្លាំងទប់នៃខ្យល់",
+        "group": "sim-content"
+      },
+      "orientation": {
+        "en": "Orientation",
+        "km": "ទិសដៅ/ការកំណត់ទិស",
+        "group": "sim-content"
+      },
+      "projectile": {
+        "en": "Projectile",
+        "km": "អង្គធាតុរងចលនាគប់",
+        "group": "sim-content"
+      },
+      "launcherNumberPattern": {
+        "en": "Launcher {{number}}",
+        "km": "កាំភ្លើងបាញ់ {{number}}",
+        "group": "sim-content"
+      },
+      "angleStability": {
+        "en": "Angle Stability",
+        "km": "ស្ថិរភាពមុំ",
+        "group": "sim-content"
+      },
+      "min": {
+        "en": "min",
+        "km": "អប្បបរមា",
+        "group": "sim-content"
+      },
+      "max": {
+        "en": "max",
+        "km": "អតិបរមា",
+        "group": "sim-content"
+      },
+      "mysteryLauncher": {
+        "en": "Mystery Launcher",
+        "km": "កាំភ្លើងបាញ់អាថ៌កំបាំង",
+        "group": "sim-content"
+      },
+      "customLauncher": {
+        "en": "Custom Launcher",
+        "km": "កាំភ្លើងបាញ់តាមបំណង",
+        "group": "sim-content"
+      },
+      "histogram": {
+        "en": "Histogram",
+        "km": "អ៊ីស្តូក្រាម",
+        "group": "sim-content"
+      },
+      "fieldNumberPattern": {
+        "en": "Field {{number}}",
+        "km": "ទីលាន {{number}}",
+        "group": "sim-content"
+      },
+      "noData": {
+        "en": "No data",
+        "km": "គ្មានទិន្នន័យ",
+        "group": "sim-content"
+      },
+      "mean": {
+        "en": "Mean",
+        "km": "មធ្យមភាគ",
+        "group": "sim-content"
+      },
+      "standardDeviation": {
+        "en": "Standard Deviation",
+        "km": "គម្លាតស្តង់ដា",
+        "group": "sim-content"
+      },
+      "values": {
+        "en": "Values",
+        "km": "តម្លៃ",
+        "group": "sim-content"
+      },
+      "sampleSizeN": {
+        "en": "Sample Size (n)",
+        "km": "ទំហំសំណាក (n)",
+        "group": "sim-content"
+      },
+      "paths": {
+        "en": "Paths",
+        "km": "គន្លង",
+        "group": "sim-content"
+      },
+      "speed": {
+        "en": "Speed",
+        "km": "ល្បឿន",
+        "group": "sim-content"
+      },
+      "launchSpeed": {
+        "en": "Launch Speed",
+        "km": "ល្បឿនបាញ់",
+        "group": "sim-content"
+      },
+      "angle": {
+        "en": "Angle",
+        "km": "មុំ",
+        "group": "sim-content"
+      },
+      "launchAngle": {
+        "en": "Launch Angle",
+        "km": "មុំបាញ់",
+        "group": "sim-content"
+      },
+      "measuringTape": {
+        "en": "Measuring Tape",
+        "km": "ខ្សែម៉ែត្រ",
+        "group": "sim-content"
+      },
+      "stopwatch": {
+        "en": "Stopwatch",
+        "km": "នាឡិកាវាស់ស្ទង់ពេល",
+        "group": "sim-content"
+      },
+      "intervalTool": {
+        "en": "Interval Tool",
+        "km": "ឧបករណ៍ចន្លោះ",
+        "group": "sim-content"
+      },
+      "meanEqualsValueMPattern": {
+        "en": "Mean = {{value}} m",
+        "km": "មធ្យមភាគ = {{value}} m",
+        "group": "sim-content"
+      },
+      "meanXBarEqualsValueMPattern": {
+        "en": "Mean (x̅) = {{value}} m",
+        "km": "មធ្យមភាគ (x̅) = {{value}} m",
+        "group": "sim-content"
+      },
+      "standardDeviationMPattern": {
+        "en": "{{standardDeviation}} m",
+        "km": "{{standardDeviation}} m",
+        "group": "sim-content"
+      },
+      "standardDeviationEqualsValueMPattern": {
+        "en": "Standard deviation = {{value}} m",
+        "km": "គម្លាតស្តង់ដា = {{value}} m",
+        "group": "sim-content"
+      },
+      "standardErrorOfXBarEqualsValueMPattern": {
+        "en": "Standard error of x̅ = {{value}} m",
+        "km": "កំហុសស្តង់ដានៃ x̅ = {{value}} m",
+        "group": "sim-content"
+      },
+      "valueMetersPerSecondPattern": {
+        "en": "{{value}} m/s",
+        "km": "{{value}} m/s",
+        "group": "sim-content"
+      },
+      "valueDegreesPattern": {
+        "en": "{{value}}°",
+        "km": "{{value}}°",
+        "group": "sim-content"
+      },
+      "nEqualsSampleSizePattern": {
+        "en": "n = {{sampleSize}}",
+        "km": "n = {{sampleSize}}",
+        "group": "sim-content"
+      },
+      "sampleNumberOfCountPattern": {
+        "en": "Sample {{number}} of {{count}}",
+        "km": "សំណាកទី {{number}} នៃ {{count}}",
+        "group": "sim-content"
+      },
+      "numberOfCountPattern": {
+        "en": "{{number}} of {{count}}",
+        "km": "{{number}} នៃ {{count}}",
+        "group": "sim-content"
+      },
+      "binWidthMPattern": {
+        "en": "{{binWidth}} m",
+        "km": "{{binWidth}} m",
+        "group": "sim-content"
+      },
+      "intervalMPattern": {
+        "en": "{{interval}} m",
+        "km": "{{interval}} m",
+        "group": "sim-content"
+      },
+      "meanMPattern": {
+        "en": "{{mean}} m",
+        "km": "{{mean}} m",
+        "group": "sim-content"
+      },
+      "distance": {
+        "en": "Distance",
+        "km": "ចម្ងាយ",
+        "group": "sim-content"
+      },
+      "meanDistance": {
+        "en": "Mean Distance",
+        "km": "ចម្ងាយមធ្យម",
+        "group": "sim-content"
+      },
+      "count": {
+        "en": "Count",
+        "km": "ចំនួនរាប់",
+        "group": "sim-content"
+      },
+      "binWidth": {
+        "en": "Bin Width",
+        "km": "ប្រវែងទទឹងចន្លោះថ្នាក់ (Bin Width)",
+        "group": "sim-content"
+      },
+      "totalBins": {
+        "en": "Total Bins",
+        "km": "ចំនួនចន្លោះថ្នាក់សរុប (Total Bins)",
+        "group": "sim-content"
+      },
+      "histogramBins": {
+        "en": "Histogram Bins",
+        "km": "ចន្លោះថ្នាក់អ៊ីស្តូក្រាម (Histogram Bins)",
+        "group": "sim-content"
+      },
+      "histogramBinsPreferenceDescription": {
+        "en": "The histogram can represent data based on the width of the bins or by the total number of bins on the field.",
+        "km": "អ៊ីស្តូក្រាមអាចបង្ហាញទិន្នន័យដោយផ្អែកលើប្រវែងទទឹងនៃចន្លោះថ្នាក់ ឬចំនួនសរុបនៃចន្លោះថ្នាក់នៅលើទីលាន។",
+        "group": "sim-content"
+      },
+      "showStandardError": {
+        "en": "Show Standard Error",
+        "km": "បង្ហាញកំហុសស្តង់ដា",
+        "group": "sim-content"
+      },
+      "showStandardErrorPreferenceDescription": {
+        "en": "Determines whether the standard error of the mean is displayed when Values is selected on the Measures screen.",
+        "km": "កំណត់ថាតើត្រូវបង្ហាញកំហុសស្តង់ដានៃមធ្យមភាគ នៅពេលដែល \"តម្លៃ\" ត្រូវបានជ្រើសរើសនៅលើអេក្រង់រង្វាស់រង្វាល់ឬអត់។",
+        "group": "sim-content"
+      },
+      "launchSound": {
+        "en": "Launch Sound",
+        "km": "សំឡេងបាញ់",
+        "group": "sim-content"
+      },
+      "none": {
+        "en": "None",
+        "km": "គ្មាន",
+        "group": "sim-content"
+      },
+      "launchSoundPreferenceDescription": {
+        "en": "The launch sound can represent either the initial speed or initial angle of the projectile, or it can be turned off.",
+        "km": "សំឡេងបាញ់អាចតំណាងឱ្យល្បឿនដើម ឬមុំដើមនៃអង្គធាតុរងចលនាគប់ ឬអាចបិទវាបាន។",
+        "group": "sim-content"
+      },
+      "playLandingSound": {
+        "en": "Play Landing Sound",
+        "km": "ចាក់សំឡេងពេលធ្លាក់ដល់ដី",
+        "group": "sim-content"
+      },
+      "playLandingSoundPreferenceDescription": {
+        "en": "Determines whether a sound is played when a projectile lands.",
+        "km": "កំណត់ថាតើត្រូវចាក់សំឡេងនៅពេលអង្គធាតុរងចលនាគប់ធ្លាក់ដល់ដីឬអត់។",
+        "group": "sim-content"
+      },
+      "percentPattern": {
+        "en": "{{percent}}%",
+        "km": "{{percent}}%",
+        "group": "sim-content"
+      },
+      "sampleSizeNPattern": {
+        "en": "Sample size (n): {{sampleSize}}",
+        "km": "ទំហំសំណាក (n)៖ {{sampleSize}}",
+        "group": "sim-content"
+      },
+      "numberOfSamplesPattern": {
+        "en": "Number of samples: {{numberOfSamples}}",
+        "km": "ចំនួនសំណាក៖ {{numberOfSamples}}",
+        "group": "sim-content"
+      },
+      "fromAnywhereInSim": {
+        "en": "From Anywhere in Sim",
+        "km": "ពីកន្លែងណាមួយក្នុងការពិសោធន៍ក្លែងធ្វើ",
+        "group": "sim-content"
+      },
+      "goToField": {
+        "en": "Go to field",
+        "km": "ទៅកាន់ទីលាន",
+        "group": "sim-content"
+      },
+      "creating": {
+        "en": "Creating...",
+        "km": "កំពុងបង្កើត...",
+        "group": "sim-content"
+      },
+      "launchOrStopProjectiles": {
+        "en": "Launch or stop projectiles",
+        "km": "បាញ់ ឬបញ្ឈប់អង្គធាតុរងចលនាគប់",
+        "group": "sim-content"
+      },
+      "autoGenerateData": {
+        "en": "Auto-Generate Data",
+        "km": "បង្កើតទិន្នន័យដោយស្វ័យប្រវត្តិ",
+        "group": "sim-content"
+      },
+      "autoGenerateDataPreferenceDescription": {
+        "en": "Makes it so the launch button generates a full set of data.",
+        "km": "កំណត់ឱ្យប៊ូតុងបាញ់បង្កើតសំណុំទិន្នន័យពេញលេញមួយ។",
+        "group": "sim-content"
+      },
+      "projectileTypeAffectsSpeed": {
+        "en": "Projectile Type Affects Speed",
+        "km": "ប្រភេទអង្គធាតុជះឥទ្ធិពលលើល្បឿន",
+        "group": "sim-content"
+      },
+      "projectileTypeAffectsSpeedPreferenceDescription": {
+        "en": "Determines whether the type of projectile affects its mean launch speed.",
+        "km": "កំណត់ថាតើប្រភេទនៃអង្គធាតុរងចលនាគប់ជះឥទ្ធិពលលើល្បឿនបាញ់មធ្យមរបស់វាឬអត់។",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.movePointerIntervalHandleOrIntervalBlock": {
+        "en": "Move Interval Tool or its Edges",
+        "km": "រំកិលឧបករណ៍ចន្លោះ ឬគែមរបស់វា",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.object": {
+        "en": "Interval Tool or its Edges",
+        "km": "ឧបករណ៍ចន្លោះ ឬគែមរបស់វា",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.move": {
+        "en": "Move",
+        "km": "រំកិល",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.endOfNumberLine": {
+        "en": "End of the Field",
+        "km": "ចុងបញ្ចប់នៃទីលាន",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.measuresScreen.startOfNumberLine": {
+        "en": "Start of the Field",
+        "km": "ចំណុចចាប់ផ្តើមនៃទីលាន",
+        "group": "sim-content"
+      },
+      "keyboardHelpDialog.histogramBinControls": {
+        "en": "Histogram Bin Controls",
+        "km": "ការបញ្ជាចន្លោះថ្នាក់អ៊ីស្តូក្រាម",
+        "group": "sim-content"
+      }
+    },
+    "joist": {
+      "joist.title": {
+        "en": "joist demo",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "done": {
+        "en": "Done",
+        "km": "រួចរាល់",
+        "group": "framework-dialogs"
+      },
+      "menuItem.options": {
+        "en": "Options…",
+        "km": "ជម្រើស…",
+        "group": "framework-dialogs"
+      },
+      "menuItem.about": {
+        "en": "About…",
+        "km": "អំពី…",
+        "group": "framework-dialogs"
+      },
+      "menuItem.outputLog": {
+        "en": "Output Log",
+        "km": "កំណត់ហេតុលទ្ធផល",
+        "group": "framework-dialogs"
+      },
+      "menuItem.phetWebsite": {
+        "en": "PhET Website…",
+        "km": "គេហទំព័រ PhET…",
+        "group": "framework-dialogs"
+      },
+      "menuItem.reportAProblem": {
+        "en": "Report a Problem…",
+        "km": "រាយការណ៍បញ្ហា…",
+        "group": "framework-dialogs"
+      },
+      "menuItem.screenshot": {
+        "en": "Screenshot",
+        "km": "រូបថតអេក្រង់",
+        "group": "framework-dialogs"
+      },
+      "menuItem.fullscreen": {
+        "en": "Full Screen",
+        "km": "ពេញអេក្រង់",
+        "group": "framework-dialogs"
+      },
+      "menuItem.getUpdate": {
+        "en": "Check for Updates…",
+        "km": "ពិនិត្យមើលបច្ចុប្បន្នភាព…",
+        "group": "framework-dialogs"
+      },
+      "menuItem.enhancedSound": {
+        "en": "Extra Sound",
+        "km": "សំឡេងបន្ថែម",
+        "group": "framework-dialogs"
+      },
+      "menuItem.mailInputEventsLog": {
+        "en": "Mail Input Events Log",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "menuItem.outputInputEventsLog": {
+        "en": "Output Input Events Log",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "menuItem.submitInputEventsLog": {
+        "en": "Submit Input Events Log",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "menuItem.settings": {
+        "en": "Settings",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "title.settings": {
+        "en": "Settings",
+        "km": "ការកំណត់",
+        "group": "framework-dialogs"
+      },
+      "showPointers": {
+        "en": "Show Pointers",
+        "km": "បង្ហាញទ្រនិចចង្អុល",
+        "group": "framework-dialogs"
+      },
+      "termsPrivacyAndLicensing": {
+        "en": "Terms, Privacy & Licensing",
+        "km": "លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាបណ្ណ",
+        "group": "framework-dialogs"
+      },
+      "privacyPolicy": {
+        "en": "Privacy Policy",
+        "km": "គោលការណ៍ឯកជនភាព",
+        "group": "framework-dialogs"
+      },
+      "donateToPhet": {
+        "en": "Donate to PhET",
+        "km": "បរិច្ចាគដល់ PhET",
+        "group": "framework-dialogs"
+      },
+      "license.title": {
+        "en": "License",
+        "km": "អាជ្ញាបណ្ណ",
+        "group": "framework-dialogs"
+      },
+      "credits.title": {
+        "en": "Credits",
+        "km": "ការទទួលស្គាល់ការចូលរួម",
+        "group": "framework-dialogs"
+      },
+      "credits.leadDesign": {
+        "en": "Lead Design: {0}",
+        "km": "អ្នកដឹកនាំការរចនា៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.softwareDevelopment": {
+        "en": "Software Development: {0}",
+        "km": "ការអភិវឌ្ឍកម្មវិធី៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.team": {
+        "en": "Team: {0}",
+        "km": "ក្រុមការងារ៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.contributors": {
+        "en": "Contributors: {0}",
+        "km": "អ្នករួមចំណែក៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.qualityAssurance": {
+        "en": "Quality Assurance: {0}",
+        "km": "ការធានាគុណភាព៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.graphicArts": {
+        "en": "Graphic Arts: {0}",
+        "km": "សិល្បៈក្រាហ្វិក៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.soundDesign": {
+        "en": "Sound Design: {0}",
+        "km": "ការរចនាសំឡេង៖ {0}",
+        "group": "framework-dialogs"
+      },
+      "credits.translation": {
+        "en": "Translation",
+        "km": "ការបកប្រែ",
+        "group": "framework-dialogs"
+      },
+      "credits.thanks": {
+        "en": "Thanks",
+        "km": "ថ្លែងអំណរគុណ",
+        "group": "framework-dialogs"
+      },
+      "options.title": {
+        "en": "Options",
+        "km": "ជម្រើស",
+        "group": "framework-dialogs"
+      },
+      "versionPattern": {
+        "en": "version {0}",
+        "km": "កំណែ {0}",
+        "group": "framework-dialogs"
+      },
+      "updates.upToDate": {
+        "en": "This simulation is up to date.",
+        "km": "ការពិសោធន៍ក្លែងធ្វើនេះគឺទាន់សម័យហើយ។",
+        "group": "framework-dialogs"
+      },
+      "updates.outOfDate": {
+        "en": "New version available",
+        "km": "មានកំណែថ្មី",
+        "group": "framework-dialogs"
+      },
+      "updates.checking": {
+        "en": "Checking for updates…",
+        "km": "កំពុងពិនិត្យមើលបច្ចុប្បន្នភាព…",
+        "group": "framework-dialogs"
+      },
+      "updates.offline": {
+        "en": "Unable to check for updates.",
+        "km": "មិនអាចពិនិត្យមើលបច្ចុប្បន្នភាពបានទេ។",
+        "group": "framework-dialogs"
+      },
+      "updates.newVersionAvailable": {
+        "en": "There is a new version available: {0}.",
+        "km": "មានកំណែថ្មីដែលអាចប្រើបាន៖ {0}។",
+        "group": "framework-dialogs"
+      },
+      "updates.yourCurrentVersion": {
+        "en": "Your current version is: {0}.",
+        "km": "កំណែបច្ចុប្បន្នរបស់អ្នកគឺ៖ {0}។",
+        "group": "framework-dialogs"
+      },
+      "updates.getUpdate": {
+        "en": "Get Update…",
+        "km": "ធ្វើបច្ចុប្បន្នភាព…",
+        "group": "framework-dialogs"
+      },
+      "updates.noThanks": {
+        "en": "No Thanks",
+        "km": "ទេ អរគុណ",
+        "group": "framework-dialogs"
+      },
+      "translation.credits.link": {
+        "en": "Translation Credits",
+        "km": "ការទទួលស្គាល់ការបកប្រែ",
+        "group": "framework-dialogs"
+      },
+      "thirdParty.credits.link": {
+        "en": "Third-party Credits",
+        "km": "ការទទួលស្គាល់ភាគីទីបី",
+        "group": "framework-dialogs"
+      },
+      "keyboardShortcuts.title": {
+        "en": "Keyboard Shortcuts",
+        "km": "ផ្លូវកាត់ក្តារចុច",
+        "group": "framework-visible"
+      },
+      "keyboardShortcuts.toGetStarted": {
+        "en": "to get started",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "simTitleWithScreenNamePattern": {
+        "en": "{{simName}} — {{screenName}}",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "projectorMode": {
+        "en": "Projector Mode",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "queryParametersWarningDialog.invalidQueryParameters": {
+        "en": "Invalid Query Parameters",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+        "en": "One or more of these query parameters have<br>invalid values:",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "queryParametersWarningDialog.theSimulationWillStart": {
+        "en": "The simulation will start with default values for<br>those query parameters.",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "ieErrorPage.platformError": {
+        "en": "Platform Error",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "ieErrorPage.ieIsNotSupported": {
+        "en": "Internet Explorer is not supported.",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "ieErrorPage.useDifferentBrowser": {
+        "en": "Please use a different browser to run this simulation.",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "preferences.title": {
+        "en": "Preferences",
+        "km": "ចំណង់ចំណូលចិត្ត",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.general.title": {
+        "en": "General",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.overview.title": {
+        "en": "Overview",
+        "km": "ទិដ្ឋភាពទូទៅ",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.general.accessibilityIntro": {
+        "en": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.",
+        "km": "យើងកំពុងបន្ថែមមុខងារនានាទៅកាន់ការពិសោធន៍ក្លែងធ្វើរបស់យើង ដើម្បីឱ្យកាន់តែមានលក្ខណៈទូលំទូលាយសម្រាប់អ្នកសិក្សាគ្រប់រូប។ មុខងារមួយចំនួនគាំទ្រដល់លទ្ធភាពប្រើប្រាស់សម្រាប់អ្នកសិក្សាដែលមានតម្រូវការចម្រុះ និងក្នុងបរិយាកាសផ្សេងៗគ្នា។ សូមស្វែងយល់ពីម៉ឺនុយនេះដើម្បីពិនិត្យឡើងវិញ ឬផ្លាស់ប្តូរការកំណត់បទបង្ហាញលំនាំដើម។",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.general.moreAccessibility": {
+        "en": "Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.",
+        "km": "ស្វែងរក \"មុខងារបរិយាបន្ន\" នៅលើទំព័រតម្រងការពិសោធន៍ក្លែងធ្វើនៃគេហទំព័រ PhET ដើម្បីស្វែងរកការពិសោធន៍ក្លែងធ្វើទាំងអស់ដែលមានមុខងារទាំងនេះ។",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.simulation.title": {
+        "en": "Simulation",
+        "km": "ការពិសោធន៍ក្លែងធ្វើ",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.visual.title": {
+        "en": "Visual",
+        "km": "រូបភាព/គំហើញ",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.visual.interactiveHighlights": {
+        "en": "Interactive Highlights",
+        "km": "ការរំលេចពណ៌នៅពេលអន្តរកម្ម",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.visual.interactiveHighlightsDescription": {
+        "en": "Add visual highlights for mouse and touch as you interact.",
+        "km": "បន្ថែមការរំលេចពណ៌សម្រាប់កណ្ដុរ និងការប៉ះបញ្ជា នៅពេលអ្នកធ្វើអន្តរកម្ម។",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.visual.projectorModeDescription": {
+        "en": "Increase color contrast for better visibility in classrooms.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.title": {
+        "en": "Audio",
+        "km": "សំឡេង",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.voicing.titleEnglishOnly": {
+        "en": "Voicing (English Only)",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.voicing.description": {
+        "en": "Voice and highlight content as you interact.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.sounds.title": {
+        "en": "Sounds",
+        "km": "សំឡេង",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.sounds.extraSounds.title": {
+        "en": "Extra Sounds",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.audioFeatures.title": {
+        "en": "Audio Features",
+        "km": "មុខងារសំឡេង",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.sounds.description": {
+        "en": "Play sonifications and sound effects as you interact.",
+        "km": "ចាក់សំឡេងតំណាងទិន្នន័យ និងសំឡេងបែបផែននៅពេលអ្នកធ្វើអន្តរកម្ម។",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.audio.sounds.extraSounds.description": {
+        "en": "Play additional sound that may be helpful for some learners.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.input.title": {
+        "en": "Input",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.title": {
+        "en": "Localization",
+        "km": "ការធ្វើមូលដ្ឋានីយកម្ម",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.languageSelection.title": {
+        "en": "Languages",
+        "km": "ភាសា",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.languageSelection.description": {
+        "en": "Change language to translate on-screen text. Additional descriptions, when present, remain in English.",
+        "km": "ផ្លាស់ប្តូរភាសាដើម្បីបកប្រែអត្ថបទលើអេក្រង់។ ការពិពណ៌នាបន្ថែម (ប្រសិនបើមាន) នឹងនៅតែជាភាសាអង់គ្លេស។",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.title": {
+        "en": "Region and Culture",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.description": {
+        "en": "Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.africa": {
+        "en": "Africa",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.africaModest": {
+        "en": "Africa (Modest)",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.asia": {
+        "en": "Asia",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.latinAmerica": {
+        "en": "Latin America",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.oceania": {
+        "en": "Oceania",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.random": {
+        "en": "Random",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica": {
+        "en": "United States of America",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.africa": {
+        "en": "Africa",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.africaModest": {
+        "en": "Africa (Modest)",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.asia": {
+        "en": "Asia",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmerica": {
+        "en": "Latin America",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.oceania": {
+        "en": "Oceania",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.multicultural": {
+        "en": "Multicultural",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.localization.regionAndCulture.portrayalSets.unitedStatesOfAmerica": {
+        "en": "United States of America",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "PhetButton.name": {
+        "en": "PhET Menu Button",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "HomeButton.name": {
+        "en": "Home",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "adaptedFrom": {
+        "en": "adapted from",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "titlePattern": {
+        "en": "{0} {1}",
+        "km": "",
+        "group": "framework-dialogs"
+      },
+      "preferences.tabs.input.gestureControls.title": {
+        "en": "Gesture Control",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.input.gestureControls.description": {
+        "en": "Use touch with custom swipes and taps instead. No direct touch with gesture control enabled.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "preferences.tabs.general.simulationSpecificSettings": {
+        "en": "Simulation-specific Settings",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelp.keyboardShortcuts": {
+        "en": "Keyboard Shortcuts",
+        "km": "ផ្លូវកាត់ក្តារចុច",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelp.tabToGetStarted.accessibleHelpText": {
+        "en": "Use Tab to find sim actions, cursor keys to read details.",
+        "km": "ប្រើគ្រាប់ចុច Tab ដើម្បីស្វែងរកសកម្មភាពពិសោធន៍ក្លែងធ្វើ និងគ្រាប់ចុចព្រួញដើម្បីអានសេចក្តីលម្អិត។",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelp.tabToGetStarted.readingBlockNameResponse": {
+        "en": "Tab to get started.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.inPlayArea": {
+        "en": "In Play Area:",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.inControlArea": {
+        "en": "In Control Area:",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.simScreens": {
+        "en": "Sim Screens",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.simScreen": {
+        "en": "Sim Screen",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.screenNamePattern": {
+        "en": "{{name}} Screen",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.goToScreenPattern": {
+        "en": "Go to {{name}} Screen.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.screenSimPattern": {
+        "en": "{{screenName}}, {{simName}}",
+        "km": "{{screenName}}, {{simName}}",
+        "group": "framework-visible"
+      },
+      "a11y.home": {
+        "en": "Home",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.homeScreenDescriptionPattern": {
+        "en": "Welcome to {{name}}. It has {{screens}} interactive screens that you can explore.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.homeScreenHint": {
+        "en": "Choose a screen to start exploring.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.homeScreenIntroPattern": {
+        "en": "{{description}} {{hint}}",
+        "km": "{{description}} {{hint}}",
+        "group": "framework-visible"
+      },
+      "a11y.homeScreenButtonDetailsPattern": {
+        "en": "On {{name}}, {{screenHint}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.simResources": {
+        "en": "Sim Resources",
+        "km": "ធនធានការពិសោធន៍ក្លែងធ្វើ",
+        "group": "framework-visible"
+      },
+      "a11y.soundToggle.alert.simSoundOn": {
+        "en": "Audio Features on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.soundToggle.alert.simSoundOff": {
+        "en": "Audio Features off.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.soundToggle.label": {
+        "en": "All Audio",
+        "km": "សំឡេងទាំងអស់",
+        "group": "framework-visible"
+      },
+      "a11y.checkOutShortcuts": {
+        "en": "If needed, checkout keyboard shortcuts under Sim Resources.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.phetMenu": {
+        "en": "PhET Menu",
+        "km": "ម៉ឺនុយ PhET",
+        "group": "framework-visible"
+      },
+      "a11y.updateDialog.accessibleName": {
+        "en": "Update Status",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.updateDialog.noThanksButton.accessibleContextResponse": {
+        "en": "Continuing with current version.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.labelledDescriptionPattern": {
+        "en": "{{label}}, {{description}}",
+        "km": "{{label}}, {{description}}",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.tabResponsePattern": {
+        "en": "Preferences, {{title}} Tab",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.visual.interactiveHighlights.enabledAlert": {
+        "en": "Highlights on for all input.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.visual.interactiveHighlights.disabledAlert": {
+        "en": "Highlights off for mouse and touch.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.sounds.soundsOn": {
+        "en": "Sounds on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.sounds.soundsOff": {
+        "en": "Sounds off.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOn": {
+        "en": "Extra Sounds on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.sounds.extraSounds.extraSoundsOff": {
+        "en": "Extra Sounds off.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.title": {
+        "en": "Voicing",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOn": {
+        "en": "Voicing on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOff": {
+        "en": "Voicing off.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingOffOnlyAvailableInEnglish": {
+        "en": "Voicing off. Only available in English.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.title": {
+        "en": "Toolbar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarAdded": {
+        "en": "Toolbar added to sim.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.voicingToolbar.toolbarRemoved": {
+        "en": "Toolbar removed.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.title": {
+        "en": "Sim Voicing Options",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.description": {
+        "en": "Choose details you want voiced as you interact.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.label": {
+        "en": "Voice object details and changes",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.enabledAlert": {
+        "en": "Voicing object details and changes.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.objectDetails.disabledAlert": {
+        "en": "Object details and changes muted.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.label": {
+        "en": "Voice surrounding context changes",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.enabledAlert": {
+        "en": "Voicing surrounding context changes.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.contextChanges.disabledAlert": {
+        "en": "Surrounding context changes muted.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.label": {
+        "en": "Voice helpful hints",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.enabledAlert": {
+        "en": "Voicing extra help.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.simVoicingOptions.helpfulHints.disabledAlert": {
+        "en": "Extra help muted.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.title": {
+        "en": "Customize Voice",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.expandedAlert": {
+        "en": "expanded",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.collapsedAlert": {
+        "en": "collapsed",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.variablesPattern": {
+        "en": "{{value}}x",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.writtenVariablesPattern": {
+        "en": "{{value}} times",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.title": {
+        "en": "Voice",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.titlePattern": {
+        "en": "Voice: {{value}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.voice.noVoicesAvailable": {
+        "en": "No voices available",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.title": {
+        "en": "Rate",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.labelString": {
+        "en": "Voice Rate",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.low": {
+        "en": "in low range",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.normal": {
+        "en": "in normal range",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.aboveNormal": {
+        "en": "above normal range",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.high": {
+        "en": "in high range",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.rate.rangeDescriptions.voiceRateNormal": {
+        "en": "normal",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.audio.voicing.customizeVoice.pitch.title": {
+        "en": "Pitch",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.input.gestureControl.enabledAlert": {
+        "en": "Custom taps and swipes on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.input.gestureControl.disabledAlert": {
+        "en": "Custom taps and swipes off.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.preferences.tabs.localization.languageSelection.languageChangeResponsePattern": {
+        "en": "On-screen text now in {{language}}.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.title": {
+        "en": "Toolbar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.openToolbar": {
+        "en": "Open Toolbar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.closeToolbar": {
+        "en": "Close Toolbar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.hideToolbar": {
+        "en": "Hide Toolbar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.showToolbar": {
+        "en": "Show Toolbar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.toolbarShown": {
+        "en": "Toolbar Shown.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.toolbarHidden": {
+        "en": "Toolbar hidden.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.title": {
+        "en": "Sim Voicing",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.quickInfo": {
+        "en": "Quick Info",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.playOverviewLabel": {
+        "en": "Play Overview",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.playDetailsLabel": {
+        "en": "Play Details",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.playHintLabel": {
+        "en": "Play Hint",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.overviewLabel": {
+        "en": "Overview",
+        "km": "ទិដ្ឋភាពទូទៅ",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.detailsLabel": {
+        "en": "Details",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.hintLabel": {
+        "en": "Hint",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.simVoicingOnAlert": {
+        "en": "Sim Voicing on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicingToolbar.voicing.simVoicingOffAlert": {
+        "en": "Sim Voicing off.",
+        "km": "",
+        "group": "framework-visible"
+      }
+    },
+    "scenery-phet": {
+      "scenery-phet.title": {
+        "en": "scenery-phet demo",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.buttons": {
+        "en": "Buttons",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.components": {
+        "en": "Components",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.dialogs": {
+        "en": "Dialogs",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.keyboard": {
+        "en": "Keyboard",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.sliders": {
+        "en": "Sliders",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.spinners": {
+        "en": "Spinners",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "WavelengthSlider.pattern_0wavelength_1units": {
+        "en": "{0} {1}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "frequencyUnitsPattern": {
+        "en": "{{frequency}} THz",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "stopwatchValueUnitsPattern": {
+        "en": "{{value}} {{units}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "units_nm": {
+        "en": "nm",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "shortCircuit": {
+        "en": "Short circuit!",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "heat": {
+        "en": "Heat",
+        "km": "ក្ដៅ",
+        "group": "framework-visible"
+      },
+      "cool": {
+        "en": "Cool",
+        "km": "ត្រជាក់",
+        "group": "framework-visible"
+      },
+      "key.tab": {
+        "en": "Tab",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.shift": {
+        "en": "Shift",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.alt": {
+        "en": "Alt",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.option": {
+        "en": "Option",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.capsLock": {
+        "en": "Caps Lock",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.enter": {
+        "en": "Enter",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.return": {
+        "en": "Return",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.backspace": {
+        "en": "Backspace",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.delete": {
+        "en": "Delete",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.space": {
+        "en": "Space",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.esc": {
+        "en": "Esc",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.fn": {
+        "en": "Fn",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.pageUp": {
+        "en": "Pg Up",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.pageDown": {
+        "en": "Pg Dn",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.home": {
+        "en": "Home",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.end": {
+        "en": "End",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.a": {
+        "en": "A",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.b": {
+        "en": "B",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.c": {
+        "en": "C",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.d": {
+        "en": "D",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.e": {
+        "en": "E",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.f": {
+        "en": "F",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.g": {
+        "en": "G",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.h": {
+        "en": "H",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.i": {
+        "en": "I",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.j": {
+        "en": "J",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.k": {
+        "en": "K",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.l": {
+        "en": "L",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.m": {
+        "en": "M",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.n": {
+        "en": "N",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.o": {
+        "en": "O",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.p": {
+        "en": "P",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.q": {
+        "en": "Q",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.r": {
+        "en": "R",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.s": {
+        "en": "S",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.t": {
+        "en": "T",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.u": {
+        "en": "U",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.v": {
+        "en": "V",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.w": {
+        "en": "W",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.x": {
+        "en": "X",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.y": {
+        "en": "Y",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.z": {
+        "en": "Z",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.zero": {
+        "en": "0",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.one": {
+        "en": "1",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.two": {
+        "en": "2",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.three": {
+        "en": "3",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.four": {
+        "en": "4",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.five": {
+        "en": "5",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.six": {
+        "en": "6",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.seven": {
+        "en": "7",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.eight": {
+        "en": "8",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.nine": {
+        "en": "9",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "key.toGrabOrRelease": {
+        "en": "to <b>Grab</b> or <b>Release</b>",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "webglWarning.title": {
+        "en": "Running with low graphics quality",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "webglWarning.body": {
+        "en": "WebGL is not enabled or not available. Click to learn more.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "webglWarning.contextLossFailure": {
+        "en": "Sorry, a graphics error has occurred.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "webglWarning.contextLossReload": {
+        "en": "Reload",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "webglWarning.ie11StencilBody": {
+        "en": "Update Internet Explorer by installing recommended Windows Update patches.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.sliderControls": {
+        "en": "Slider Controls",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.adjustSlider": {
+        "en": "Adjust slider",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.spinnerControls": {
+        "en": "Spinner Controls",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.adjustInSmallerSteps": {
+        "en": "Adjust in smaller steps",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.adjustInLargerSteps": {
+        "en": "Adjust in larger steps",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.jumpToMinimum": {
+        "en": "Jump to minimum",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.jumpToMaximum": {
+        "en": "Jump to maximum",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.adjust": {
+        "en": "Adjust",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.slider": {
+        "en": "slider",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.spinner": {
+        "en": "spinner",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.heatCoolControls": {
+        "en": "Heat/Cool Controls",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.maximumHeat": {
+        "en": "Maximum heat",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.maximumCool": {
+        "en": "Maximum cool",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.heatCoolOff": {
+        "en": "Off",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.verbSliderPattern": {
+        "en": "{{verb}} {{slider}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.verbInSmallerStepsPattern": {
+        "en": "{{verb}} in smaller steps",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.verbInLargerStepsPattern": {
+        "en": "{{verb}} in larger steps",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.minimum": {
+        "en": "minimum",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.maximum": {
+        "en": "maximum",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.jumpToMinimumPattern": {
+        "en": "Jump to {{minimum}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.jumpToMaximumPattern": {
+        "en": "Jump to {{maximum}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.generalNavigation": {
+        "en": "General Navigation",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.basicActions": {
+        "en": "Basic Actions",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveToNextItem": {
+        "en": "Move to next item",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveToPreviousItem": {
+        "en": "Move to previous item",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveToNextItemOrGroup": {
+        "en": "Move to next item or group",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+        "en": "Move to previous item or group",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.pressButtons": {
+        "en": "Press buttons",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+        "en": "Move between items in a group",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.setValuesInKeypad": {
+        "en": "Set values within keypad",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.resetAll": {
+        "en": "Reset All",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.exitADialog": {
+        "en": "Exit a dialog",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.toggleCheckboxes": {
+        "en": "Toggle checkboxes",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.or": {
+        "en": "or",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.hyphen": {
+        "en": "-",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+        "en": "Grab or Release {{thing}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+        "en": "Grab or release {{thing}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+        "en": "Choose a {{thingTitle}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.headingString": {
+        "en": "Change Choice",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.popUpListPattern": {
+        "en": "1. Show {{thingPlural}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.moveThroughPattern": {
+        "en": "2. Move through {{thingPlural}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.chooseNewPattern": {
+        "en": "3. Change {{thingSingular}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+        "en": "4. Close without changing",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.options": {
+        "en": "choices",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.comboBox.option": {
+        "en": "choice",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveDraggableItems": {
+        "en": "Move Draggable Items",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.move": {
+        "en": "Move",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.moveSlower": {
+        "en": "Move slower",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.faucetControls": {
+        "en": "Faucet Controls",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+        "en": "Adjust faucet flow",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+        "en": "Adjust in smaller steps",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+        "en": "Adjust in larger steps",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.closeFaucet": {
+        "en": "Close faucet",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.openFaucetFully": {
+        "en": "Open faucet fully",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+        "en": "Open faucet briefly",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.timingControls.timingControls": {
+        "en": "Time Controls",
+        "km": "ការបញ្ជាពេលវេលា",
+        "group": "framework-visible"
+      },
+      "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+        "en": "Pause or play action",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "speed.normal": {
+        "en": "Normal",
+        "km": "ធម្មតា",
+        "group": "framework-visible"
+      },
+      "speed.slow": {
+        "en": "Slow",
+        "km": "យឺត",
+        "group": "framework-visible"
+      },
+      "speed.fast": {
+        "en": "Fast",
+        "km": "លឿន",
+        "group": "framework-visible"
+      },
+      "symbol.ohms": {
+        "en": "Ω",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "symbol.resistivity": {
+        "en": "ρ",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "comboBoxDisplay.valueUnits": {
+        "en": "{{value}} {{units}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "wavelengthNMValuePattern": {
+        "en": "{0} nm",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "measuringTapeReadoutPattern": {
+        "en": "{{distance}} {{units}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "wavelength": {
+        "en": "Wavelength",
+        "km": "ជំហានរលក",
+        "group": "framework-visible"
+      },
+      "rulerCapitalized": {
+        "en": "Ruler",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "ruler": {
+        "en": "Ruler",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "zero": {
+        "en": "zero",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "one": {
+        "en": "one",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "two": {
+        "en": "two",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "three": {
+        "en": "three",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "four": {
+        "en": "four",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "five": {
+        "en": "five",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "six": {
+        "en": "six",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "seven": {
+        "en": "seven",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "eight": {
+        "en": "eight",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "nine": {
+        "en": "nine",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "ten": {
+        "en": "ten",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "offScaleIndicator.pointsOffScale": {
+        "en": "Points<br>off scale!",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "ResetAllButton.name": {
+        "en": "Reset All",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "SoundToggleButton.name": {
+        "en": "Toggle Sound",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "scientificNotation": {
+        "en": "{{value}} × {{base}}<sup>{{exponent}}</sup>",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "units.centimeters.symbol": {
+        "en": "cm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.centimeters.symbolPattern": {
+        "en": "{{value}} cm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.centimetersSquared.symbol": {
+        "en": "cm<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.centimetersSquared.symbolPattern": {
+        "en": "{{value}} cm<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.hertz.symbol": {
+        "en": "Hz",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.hertz.symbolPattern": {
+        "en": "{{value}} Hz",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.percent.symbol": {
+        "en": "%",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.percent.symbolPattern": {
+        "en": "{{value}}%",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.seconds.symbol": {
+        "en": "s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.seconds.symbolPattern": {
+        "en": "{{value}} s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.milliseconds.symbol": {
+        "en": "ms",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.milliseconds.symbolPattern": {
+        "en": "{{value}} ms",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.microseconds.symbol": {
+        "en": "μs",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.microseconds.symbolPattern": {
+        "en": "{{value}} μs",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.femtoseconds.symbol": {
+        "en": "fs",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.femtoseconds.symbolPattern": {
+        "en": "{{value}} fs",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.amperes.symbol": {
+        "en": "A",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.amperes.symbolPattern": {
+        "en": "{{value}} A",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.volts.symbol": {
+        "en": "V",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.volts.symbolPattern": {
+        "en": "{{value}} V",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.newtons.symbol": {
+        "en": "N",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.newtons.symbolPattern": {
+        "en": "{{value}} N",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.watts.symbol": {
+        "en": "W",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.watts.symbolPattern": {
+        "en": "{{value}} W",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.joules.symbol": {
+        "en": "J",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.joules.symbolPattern": {
+        "en": "{{value}} J",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kelvin.symbol": {
+        "en": "K",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kelvin.symbolPattern": {
+        "en": "{{value}} K",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.degrees.symbol": {
+        "en": "°",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.degrees.symbolPattern": {
+        "en": "{{value}} °",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.degreesCelsius.symbol": {
+        "en": "°C",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.degreesCelsius.symbolPattern": {
+        "en": "{{value}} °C",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.degreesFahrenheit.symbol": {
+        "en": "°F",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.degreesFahrenheit.symbolPattern": {
+        "en": "{{value}} °F",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.liters.symbol": {
+        "en": "L",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.liters.symbolPattern": {
+        "en": "{{value}} L",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.litersPerSecond.symbol": {
+        "en": "L/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.litersPerSecond.symbolPattern": {
+        "en": "{{value}} L/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.meters.symbol": {
+        "en": "m",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.meters.symbolPattern": {
+        "en": "{{value}} m",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.metersPerSecond.symbol": {
+        "en": "m/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.metersPerSecond.symbolPattern": {
+        "en": "{{value}} m/s",
+        "km": "{{value}} m/s",
+        "group": "framework-unused"
+      },
+      "units.metersPerSecondSquared.symbol": {
+        "en": "m/s<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.metersPerSecondSquared.symbolPattern": {
+        "en": "{{value}} m/s<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.metersPerSecondPerSecond.symbol": {
+        "en": "m/s/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.metersPerSecondPerSecond.symbolPattern": {
+        "en": "{{value}} m/s/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.grams.symbol": {
+        "en": "g",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.grams.symbolPattern": {
+        "en": "{{value}} g",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilograms.symbol": {
+        "en": "kg",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilograms.symbolPattern": {
+        "en": "{{value}} kg",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilogramsPerLiter.symbol": {
+        "en": "kg/L",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilogramsPerLiter.symbolPattern": {
+        "en": "{{value}} kg/L",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilogramsPerCubicMeter.symbol": {
+        "en": "kg/m<sup>3</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilogramsPerCubicMeter.symbolPattern": {
+        "en": "{{value}} kg/m<sup>3</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilopascals.symbol": {
+        "en": "kPa",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilopascals.symbolPattern": {
+        "en": "{{value}} kPa",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.nanometers.symbol": {
+        "en": "nm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.nanometers.symbolPattern": {
+        "en": "{{value}} nm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.nanometersPerPicosecond.symbol": {
+        "en": "nm/ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.nanometersPerPicosecond.symbolPattern": {
+        "en": "{{value}} nm/ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilometersPerSecond.symbol": {
+        "en": "km/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilometersPerSecond.symbolPattern": {
+        "en": "{{value}} km/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometers.symbol": {
+        "en": "pm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometers.symbolPattern": {
+        "en": "{{value}} pm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometersPerSecond.symbol": {
+        "en": "pm/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometersPerSecond.symbolPattern": {
+        "en": "{{value}} pm/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometersPerSecondSquared.symbol": {
+        "en": "pm/s<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometersPerSecondSquared.symbolPattern": {
+        "en": "{{value}} pm/s<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.nanoseconds.symbol": {
+        "en": "ns",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.nanoseconds.symbolPattern": {
+        "en": "{{value}} ns",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picoseconds.symbol": {
+        "en": "ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picoseconds.symbolPattern": {
+        "en": "{{value}} ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molarAbsorptivity.symbol": {
+        "en": "1/(cm*M)",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molarAbsorptivity.symbolPattern": {
+        "en": "{{value}} 1/(cm*M)",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.ohms.symbol": {
+        "en": "Ω",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.ohms.symbolPattern": {
+        "en": "{{value}} Ω",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.ohmCentimeters.symbol": {
+        "en": "Ω·cm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.ohmCentimeters.symbolPattern": {
+        "en": "{{value}} Ω·cm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.millivolts.symbol": {
+        "en": "mV",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.millivolts.symbolPattern": {
+        "en": "{{value}} mV",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.milliamperes.symbol": {
+        "en": "mA",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.milliamperes.symbolPattern": {
+        "en": "{{value}} mA",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.microamperes.symbol": {
+        "en": "μA",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.microamperes.symbolPattern": {
+        "en": "{{value}} μA",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.farads.symbol": {
+        "en": "F",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.farads.symbolPattern": {
+        "en": "{{value}} F",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.webers.symbol": {
+        "en": "Wb",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.webers.symbolPattern": {
+        "en": "{{value}} Wb",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.gauss.symbol": {
+        "en": "G",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.gauss.symbolPattern": {
+        "en": "{{value}} G",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.pascalSeconds.symbol": {
+        "en": "Pa·s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.pascalSeconds.symbolPattern": {
+        "en": "{{value}} Pa·s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.newtonsPerMeter.symbol": {
+        "en": "N/m",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.newtonsPerMeter.symbolPattern": {
+        "en": "{{value}} N/m",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.newtonSecondsPerMeter.symbol": {
+        "en": "N·s/m",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.newtonSecondsPerMeter.symbolPattern": {
+        "en": "{{value}} N·s/m",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.moles.symbol": {
+        "en": "mol",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.moles.symbolPattern": {
+        "en": "{{value}} mol",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molesPerSecond.symbol": {
+        "en": "mol/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molesPerSecond.symbolPattern": {
+        "en": "{{value}} mol/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molar.symbol": {
+        "en": "M",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molar.symbolPattern": {
+        "en": "{{value}} M",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molesPerLiter.symbol": {
+        "en": "mol/L",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.molesPerLiter.symbolPattern": {
+        "en": "{{value}} mol/L",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.radians.symbol": {
+        "en": "radians",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.radians.symbolPattern": {
+        "en": "{{value}} radians",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.radiansPerSecond.symbol": {
+        "en": "radians/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.radiansPerSecond.symbolPattern": {
+        "en": "{{value}} radians/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.radiansPerSecondSquared.symbol": {
+        "en": "radians/s<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.radiansPerSecondSquared.symbolPattern": {
+        "en": "{{value}} radians/s<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.years.symbol": {
+        "en": "years",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.years.symbolPattern": {
+        "en": "{{value}} years",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.astronomicalUnits.symbol": {
+        "en": "AU",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.astronomicalUnits.symbolPattern": {
+        "en": "{{value}} AU",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.astronomicalUnitsSquared.symbol": {
+        "en": "AU<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.astronomicalUnitsSquared.symbolPattern": {
+        "en": "{{value}} AU<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.viewCoordinatesPerSecond.symbol": {
+        "en": "view-coordinates/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.viewCoordinatesPerSecond.symbolPattern": {
+        "en": "{{value}} view-coordinates/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.atomicMassUnits.symbol": {
+        "en": "AMU",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.atomicMassUnits.symbolPattern": {
+        "en": "{{value}} AMU",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.coulombs.symbol": {
+        "en": "C",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.coulombs.symbolPattern": {
+        "en": "{{value}} C",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.cubicMeters.symbol": {
+        "en": "m<sup>3</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.cubicMeters.symbolPattern": {
+        "en": "{{value}} m<sup>3</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.cubicPicometers.symbol": {
+        "en": "pm<sup>3</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.cubicPicometers.symbolPattern": {
+        "en": "{{value}} pm<sup>3</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronVolt.symbol": {
+        "en": "eV",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronVolt.symbolPattern": {
+        "en": "{{value}} eV",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.millimeters.symbol": {
+        "en": "mm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.millimeters.symbolPattern": {
+        "en": "{{value}} mm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.micrometers.symbol": {
+        "en": "μm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.micrometers.symbolPattern": {
+        "en": "{{value}} μm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.particlesPerPicosecond.symbol": {
+        "en": "particles/ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.particlesPerPicosecond.symbolPattern": {
+        "en": "{{value}} particles/ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.photonsPerSecond.symbol": {
+        "en": "photons/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.photonsPerSecond.symbolPattern": {
+        "en": "{{value}} photons/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.revolutionsPerMinute.symbol": {
+        "en": "rpm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.revolutionsPerMinute.symbolPattern": {
+        "en": "{{value}} rpm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.atmospheres.symbol": {
+        "en": "atm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.atmospheres.symbolPattern": {
+        "en": "{{value}} atm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilogramMetersPerSecond.symbol": {
+        "en": "kg·m/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.kilogramMetersPerSecond.symbolPattern": {
+        "en": "{{value}} kg·m/s",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometersPerPicosecond.symbol": {
+        "en": "pm/ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.picometersPerPicosecond.symbolPattern": {
+        "en": "{{value}} pm/ps",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronMasses.symbol": {
+        "en": "m<sub>e</sub>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronMasses.symbolPattern": {
+        "en": "{{value}} m<sub>e</sub>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronVolts.symbol": {
+        "en": "eV",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronVolts.symbolPattern": {
+        "en": "{{value}} eV",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronVoltsPerNanometerSquared.symbol": {
+        "en": "eV/nm<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.electronVoltsPerNanometerSquared.symbolPattern": {
+        "en": "{{value}} eV/nm<sup>2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.inverseFemtoseconds.symbol": {
+        "en": "fs<sup>-1</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.inverseFemtoseconds.symbolPattern": {
+        "en": "{{value}} fs<sup>-1</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.inverseNanometers.symbol": {
+        "en": "nm<sup>-1</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.inverseNanometers.symbolPattern": {
+        "en": "{{value}} nm<sup>-1</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.inverseSquareRootNanometers.symbol": {
+        "en": "nm<sup>-1/2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.inverseSquareRootNanometers.symbolPattern": {
+        "en": "{{value}} nm<sup>-1/2</sup>",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.voltsPerNanometer.symbol": {
+        "en": "V/nm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "units.voltsPerNanometer.symbolPattern": {
+        "en": "{{value}} V/nm",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "a11y.simSection.screenSummary.multiScreenIntro": {
+        "en": "The {{screen}} changes as you play with it. It has a Play Area and a Control Area.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.simSection.screenSummary.singleScreenIntroPattern": {
+        "en": "{{sim}} is an interactive sim. It changes as you play with it. It has a Play Area and a Control Area.",
+        "km": "{{sim}} គឺជាការពិសោធន៍ក្លែងធ្វើអន្តរកម្ម។ វាផ្លាស់ប្តូរនៅពេលអ្នកលេង/ដំណើរការវា ហើយវាមានតំបន់លេង និងតំបន់បញ្ជា។",
+        "group": "framework-visible"
+      },
+      "a11y.simSection.screenSummary.keyboardShortcutsHint": {
+        "en": "This screen has custom interactions. If needed, check out keyboard shortcuts under Sim Resources.",
+        "km": "អេក្រង់នេះមានអន្តរកម្មតាមការកំណត់។ ប្រសិនបើចាំបាច់ សូមពិនិត្យមើលផ្លូវកាត់ក្តារចុចនៅក្រោម \"ធនធានការពិសោធន៍ក្លែងធ្វើ\"។",
+        "group": "framework-visible"
+      },
+      "a11y.simSection.playArea": {
+        "en": "Play Area",
+        "km": "តំបន់លេង",
+        "group": "framework-visible"
+      },
+      "a11y.simSection.controlArea": {
+        "en": "Control Area",
+        "km": "តំបន់បញ្ជា",
+        "group": "framework-visible"
+      },
+      "a11y.resetAll.accessibleName": {
+        "en": "Reset All",
+        "km": "កំណត់ឡើងវិញទាំងអស់",
+        "group": "framework-visible"
+      },
+      "a11y.resetAll.accessibleContextResponse": {
+        "en": "Everything reset.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.soundToggle.label": {
+        "en": "Mute Sound",
+        "km": "សំឡេងទាំងអស់",
+        "group": "framework-visible"
+      },
+      "a11y.soundToggle.alert.simSoundOn": {
+        "en": "Sim sound on.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.soundToggle.alert.simSoundOff": {
+        "en": "Sim sound off.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelpDialog.general.setValuesInKeypadDescription": {
+        "en": "Set values within keypad using number keys 0-9.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelpDialog.comboBox.popUpListPattern": {
+        "en": "Show {{thingPlural}}",
+        "km": "បង្ហាញ {{thingPlural}}",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelpDialog.comboBox.moveThroughPattern": {
+        "en": "Move through {{thingPlural}}",
+        "km": "រំកិលឆ្លងកាត់ {{thingPlural}}",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelpDialog.comboBox.chooseNewPattern": {
+        "en": "Change {{thingSingular}}",
+        "km": "ផ្លាស់ប្តូរ {{thingSingular}}",
+        "group": "framework-visible"
+      },
+      "a11y.keyboardHelpDialog.comboBox.closeWithoutChanging": {
+        "en": "Close without changing",
+        "km": "បិទដោយមិនផ្លាស់ប្តូរ",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.actionStatement": {
+        "en": "{ $action }.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.actionWithKeys": {
+        "en": "{ $action } with { $keys }.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.modifiersPlusKeys": {
+        "en": "{ $modifiers } plus { $keys }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.singleKey": {
+        "en": "{ $keyLabel } key",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.multipleKeys": {
+        "en": "{ $keyLabels } keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.twoItemList": {
+        "en": "{ $first } or { $second }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.serialList": {
+        "en": "{ $items }, or { $last }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.listSeparatorPattern": {
+        "en": "{ $first }, { $second }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.helpPatterns.modifierSeparatorPattern": {
+        "en": "{ $first } plus { $second }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.leftArrow": {
+        "en": "Left Arrow",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.rightArrow": {
+        "en": "Right Arrow",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.upArrow": {
+        "en": "Up Arrow",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.downArrow": {
+        "en": "Down Arrow",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.pageUp": {
+        "en": "Page Up",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.pageDown": {
+        "en": "Page Down",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.escape": {
+        "en": "Escape",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keyboard.key.control": {
+        "en": "Control",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.arrowOrWASD": {
+        "en": "Arrow keys or W, A, S, or D letter keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.arrow": {
+        "en": "Arrow keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.leftRightOrUpDownArrows": {
+        "en": "Left and Right Arrow keys or Up and Down Arrow keys",
+        "km": "គ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ ឬគ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.leftRightArrows": {
+        "en": "Left and Right Arrow keys",
+        "km": "គ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.leftOrRightArrows": {
+        "en": "Left or Right Arrow keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.upDownArrows": {
+        "en": "Up and Down Arrow keys",
+        "km": "គ្រាប់ចុចព្រួញឡើងលើ និងចុះក្រោម",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.upOrDownArrows": {
+        "en": "Up or Down Arrow keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.wasd": {
+        "en": "W, A, S, or D letter keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.ad": {
+        "en": "A and D letter keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.ws": {
+        "en": "W and S letter keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.leftRightOrAD": {
+        "en": "Left and Right Arrow keys or A and D letter keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.keySets.upDownOrWS": {
+        "en": "Up and Down Arrow keys or W and S letter keys",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.eraserButton.accessibleName": {
+        "en": "Erase",
+        "km": "លុប",
+        "group": "framework-visible"
+      },
+      "a11y.timerToggleButton.accessibleNameOn": {
+        "en": "Timer On",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.timerToggleButton.accessibleNameOff": {
+        "en": "Timer Off",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.playControlButton.play": {
+        "en": "Play",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.playControlButton.pause": {
+        "en": "Pause",
+        "km": "ផ្អាក",
+        "group": "framework-visible"
+      },
+      "a11y.playControlButton.stop": {
+        "en": "Stop",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.playPauseButton.playingAccessibleContextResponse": {
+        "en": "Sim playing.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.playPauseButton.pausedAccessibleContextResponse": {
+        "en": "Sim paused.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stepBackwardButton.accessibleName": {
+        "en": "Step Backward",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stepBackwardButton.accessibleContextResponse": {
+        "en": "Stepping backward.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stepForwardButton.accessibleName": {
+        "en": "Step Forward",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stepForwardButton.accessibleContextResponse": {
+        "en": "Stepping forward.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stepButton.playingDescription": {
+        "en": "Pause sim to step forward little by little.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stepButton.pausedDescription": {
+        "en": "Play sim to resume chosen speed.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.timeControlNode.simSpeedDescription": {
+        "en": "For closer observations Play sim on slower speed.",
+        "km": "សម្រាប់ការសង្កេតកាន់តែដិតដល់ សូមដំណើរការការពិសោធន៍ក្លែងធ្វើក្នុងល្បឿនយឺតជាងមុន។",
+        "group": "framework-visible"
+      },
+      "a11y.timeControlNode.accessibleHeading": {
+        "en": "Time Controls",
+        "km": "ការបញ្ជាពេលវេលា",
+        "group": "framework-visible"
+      },
+      "a11y.timeControlNode.simSpeeds": {
+        "en": "Sim Speeds",
+        "km": "ល្បឿនការពិសោធន៍ក្លែងធ្វើ",
+        "group": "framework-visible"
+      },
+      "a11y.playPauseStepButtonGroup.playingHelpText": {
+        "en": "Pause sim to step through little by little.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.playPauseStepButtonGroup.pausedHelpText": {
+        "en": "Step through little by little.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.restartButton.accessibleName": {
+        "en": "Restart",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.down": {
+        "en": "down",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.left": {
+        "en": "left",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.right": {
+        "en": "right",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.up": {
+        "en": "up",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.upAndToTheRight": {
+        "en": "up and to the right",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.upAndToTheLeft": {
+        "en": "up and to the left",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.downAndToTheRight": {
+        "en": "down and to the right",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.downAndToTheLeft": {
+        "en": "down and to the left",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.leftBorderAlert": {
+        "en": "At left edge",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.rightBorderAlert": {
+        "en": "At right edge",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.topBorderAlert": {
+        "en": "At top",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.movementAlerter.bottomBorderAlert": {
+        "en": "At bottom",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.grabPattern": {
+        "en": "Grab {{objectToGrab}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.movable": {
+        "en": "movable",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.button": {
+        "en": "button",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.defaultObjectToGrab": {
+        "en": "Object",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.released": {
+        "en": "Released.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.grabbed": {
+        "en": "Grabbed.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.gestureHelpTextPattern": {
+        "en": "Double tap and hold to drag {{objectToGrab}}. Lift finger to release.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.grabDrag.spaceToGrabOrRelease": {
+        "en": "Space to Grab or Release.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.groupSort.sortable": {
+        "en": "sortable",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.groupSort.navigable": {
+        "en": "navigable",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.groupSort.grabbedAccessibleObjectResponse": {
+        "en": "Grabbed.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.groupSort.releasedAccessibleObjectResponse": {
+        "en": "Released.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.listItemPunctuation.semicolonPattern": {
+        "en": "{{content}};",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.listItemPunctuation.commaPattern": {
+        "en": "{{content}},",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.listItemPunctuation.periodPattern": {
+        "en": "{{content}}.",
+        "km": "{{content}}។",
+        "group": "framework-visible"
+      },
+      "a11y.voicing.simSection.screenSummary.singleScreenIntroPattern": {
+        "en": "{{sim}} is an interactive sim. It changes as you play with it.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicing.grabDragHintPattern": {
+        "en": "Tap, hold, and drag to {{manipulation}}.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicing.grabbedAlert": {
+        "en": "Grabbed.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.voicing.draggableAlert": {
+        "en": "Draggable",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.close": {
+        "en": "Close",
+        "km": "បិទ",
+        "group": "framework-visible"
+      },
+      "a11y.zoomIn": {
+        "en": "Zoom In",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.zoomOut": {
+        "en": "Zoom Out",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.measuringTape": {
+        "en": "Measuring Tape",
+        "km": "ខ្សែម៉ែត្រ",
+        "group": "framework-visible"
+      },
+      "a11y.measuringTapeTip": {
+        "en": "Measuring Tape Tip",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.info": {
+        "en": "Info",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleUp": {
+        "en": "Points off scale up!",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleDown": {
+        "en": "Points off scale down!",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleLeft": {
+        "en": "Points off scale to the left!",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.offScaleIndicator.pointsOffScaleRight": {
+        "en": "Points off scale to the right!",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.accessibleName": {
+        "en": "Stopwatch",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.accessibleHelpText": {
+        "en": "Measure elapsed time.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.units.seconds.seconds": {
+        "en": "seconds",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.units.seconds.pattern": {
+        "en": "{ $seconds } seconds",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.units.minutesAndSeconds.pattern": {
+        "en": "{ $minutes ->\n  [one] { $minutes } minute\n  *[other] { $minutes } minutes\n} and { $seconds } seconds",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.units.valueUnits.pattern": {
+        "en": "{ $value } { $units }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.resetButton.accessibleName": {
+        "en": "Reset Stopwatch",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.resetButton.accessibleContextResponse": {
+        "en": "Stopwatch reset.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.playButton.accessibleName": {
+        "en": "Start Stopwatch",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.stopwatch.pauseButton.accessibleName": {
+        "en": "Pause Stopwatch",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.negativeNumber": {
+        "en": "negative { $value }",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.scientificNotation": {
+        "en": "{ $value } times ${ $base } to the { $exponent } power",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.centimeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } centimeter\n  *[other] { $value } centimeters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.centimetersSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } square centimeter\n  *[other] { $value } square centimeters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.hertz.pattern": {
+        "en": "{ $value } hertz",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.percent.pattern": {
+        "en": "{ $value } percent",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.seconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } second\n  *[other] { $value } seconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.milliseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } millisecond\n  *[other] { $value } milliseconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.microseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } microsecond\n  *[other] { $value } microseconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.femtoseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } femtosecond\n  *[other] { $value } femtoseconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kilopascals.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilopascal\n  *[other] { $value } kilopascals\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.amperes.pattern": {
+        "en": "{ $value ->\n  [one] { $value } ampere\n  *[other] { $value } amperes\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.volts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } volt\n  *[other] { $value } volts\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.newtons.pattern": {
+        "en": "{ $value ->\n  [one] { $value } newton\n  *[other] { $value } newtons\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.watts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } watt\n  *[other] { $value } watts\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.joules.pattern": {
+        "en": "{ $value ->\n  [one] { $value } joule\n  *[other] { $value } joules\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kelvin.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kelvin\n  *[other] { $value } kelvins\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.degrees.pattern": {
+        "en": "{ $value ->\n  [one] { $value } degree\n  *[other] { $value } degrees\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.degreesCelsius.pattern": {
+        "en": "{ $value ->\n  [one] { $value } degree Celsius\n  *[other] { $value } degrees Celsius\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.degreesFahrenheit.pattern": {
+        "en": "{ $value ->\n  [one] { $value } degree Fahrenheit\n  *[other] { $value } degrees Fahrenheit\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.liters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } liter\n  *[other] { $value } liters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.litersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } liter per second\n  *[other] { $value } liters per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.meters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter\n  *[other] { $value } meters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.metersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter per second\n  *[other] { $value } meters per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.metersPerSecondSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter per second squared\n  *[other] { $value } meters per second squared\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.metersPerSecondPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } meter per second per second\n  *[other] { $value } meters per second per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.grams.pattern": {
+        "en": "{ $value ->\n  [one] { $value } gram\n  *[other] { $value } grams\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kilograms.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram\n  *[other] { $value } kilograms\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kilogramsPerLiter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram per liter\n  *[other] { $value } kilograms per liter\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kilogramsPerCubicMeter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram per cubic meter\n  *[other] { $value } kilograms per cubic meter\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.nanometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } nanometer\n  *[other] { $value } nanometers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.nanometersPerPicosecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } nanometer per picosecond\n  *[other] { $value } nanometers per picosecond\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kilometersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilometer per second\n  *[other] { $value } kilometers per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.picometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer\n  *[other] { $value } picometers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.picometersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer per second\n  *[other] { $value } picometers per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.picometersPerSecondSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer per second squared\n  *[other] { $value } picometers per second squared\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.nanoseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } nanosecond\n  *[other] { $value } nanoseconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.picoseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picosecond\n  *[other] { $value } picoseconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.molarAbsorptivity.pattern": {
+        "en": "{ $value } per centimeter per molar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.ohms.pattern": {
+        "en": "{ $value ->\n  [one] { $value } ohm\n  *[other] { $value } ohms\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.ohmCentimeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } ohm-centimeter\n  *[other] { $value } ohm-centimeters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.millivolts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } millivolt\n  *[other] { $value } millivolts\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.milliamperes.pattern": {
+        "en": "{ $value ->\n  [one] { $value } milliampere\n  *[other] { $value } milliamperes\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.microamperes.pattern": {
+        "en": "{ $value ->\n  [one] { $value } microampere\n  *[other] { $value } microamperes\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.farads.pattern": {
+        "en": "{ $value ->\n  [one] { $value } farad\n  *[other] { $value } farads\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.webers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } weber\n  *[other] { $value } webers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.gauss.pattern": {
+        "en": "{ $value } gauss",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.pascalSeconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } pascal second\n  *[other] { $value } pascal seconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.newtonsPerMeter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } newton per meter\n  *[other] { $value } newtons per meter\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.newtonSecondsPerMeter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } newton-second per meter\n  *[other] { $value } newton-seconds per meter\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.moles.pattern": {
+        "en": "{ $value ->\n  [one] { $value } mole\n  *[other] { $value } moles\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.molesPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } mole per second\n  *[other] { $value } moles per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.molar.pattern": {
+        "en": "{ $value } molar",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.molesPerLiter.pattern": {
+        "en": "{ $value ->\n  [one] { $value } mole per liter\n  *[other] { $value } moles per liter\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.radians.pattern": {
+        "en": "{ $value ->\n  [one] { $value } radian\n  *[other] { $value } radians\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.radiansPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } radian per second\n  *[other] { $value } radians per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.radiansPerSecondSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } radian per second squared\n  *[other] { $value } radians per second squared\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.years.pattern": {
+        "en": "{ $value ->\n  [one] { $value } year\n  *[other] { $value } years\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.astronomicalUnits.pattern": {
+        "en": "{ $value ->\n  [one] { $value } astronomical unit\n  *[other] { $value } astronomical units\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.astronomicalUnitsSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } square astronomical unit\n  *[other] { $value } square astronomical units\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.viewCoordinatesPerSecond.pattern": {
+        "en": "{ $value } view-coordinates per second",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.atomicMassUnits.pattern": {
+        "en": "{ $value ->\n  [one] { $value } atomic mass unit\n  *[other] { $value } atomic mass units\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.coulombs.pattern": {
+        "en": "{ $value ->\n  [one] { $value } coulomb\n  *[other] { $value } coulombs\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.cubicMeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } cubic meter\n  *[other] { $value } cubic meters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.cubicPicometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } cubic picometer\n  *[other] { $value } cubic picometers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.electronVolt.pattern": {
+        "en": "{ $value ->\n  [one] { $value } electron volt\n  *[other] { $value } electron volts\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.millimeters.pattern": {
+        "en": "{ $value ->\n  [one] { $value } millimeter\n  *[other] { $value } millimeters\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.micrometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } micrometer\n  *[other] { $value } micrometers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.particlesPerPicosecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } particle per picosecond\n  *[other] { $value } particles per picosecond\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.photonsPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } photon per second\n  *[other] { $value } photons per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.revolutionsPerMinute.pattern": {
+        "en": "{ $value ->\n  [one] { $value } revolution per minute\n  *[other] { $value } revolutions per minute\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.atmospheres.pattern": {
+        "en": "{ $value ->\n  [one] { $value } atmosphere\n  *[other] { $value } atmospheres\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.kilogramMetersPerSecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } kilogram-meter per second\n  *[other] { $value } kilogram-meters per second\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.picometersPerPicosecond.pattern": {
+        "en": "{ $value ->\n  [one] { $value } picometer per picosecond\n  *[other] { $value } picometers per picosecond\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.electronMasses.pattern": {
+        "en": "{ $value ->\n  [one] { $value } electron mass\n  *[other] { $value } electron masses\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.electronVolts.pattern": {
+        "en": "{ $value ->\n  [one] { $value } electron volt\n  *[other] { $value } electron volts\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.electronVoltsPerNanometerSquared.pattern": {
+        "en": "{ $value ->\n  [one] { $value } electron volt per nanometer squared\n  *[other] { $value } electron volts per nanometer squared\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.inverseFemtoseconds.pattern": {
+        "en": "{ $value ->\n  [one] { $value } inverse femtosecond\n  *[other] { $value } inverse femtoseconds\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.inverseNanometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } inverse nanometer\n  *[other] { $value } inverse nanometers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.inverseSquareRootNanometers.pattern": {
+        "en": "{ $value ->\n  [one] { $value } inverse square root nanometer\n  *[other] { $value } inverse square root nanometers\n}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.units.voltsPerNanometer.pattern": {
+        "en": "{ $value ->\n  [one] { $value } volt per nanometer\n  *[other] { $value } volts per nanometer\n}",
+        "km": "",
+        "group": "framework-visible"
+      }
+    },
+    "sun": {
+      "sun.title": {
+        "en": "sun demo",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.buttons": {
+        "en": "Buttons",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.components": {
+        "en": "Components",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "screen.dialogs": {
+        "en": "Dialogs",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.numberSpinnerRoleDescription": {
+        "en": "number spinner",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.closed": {
+        "en": "Closed",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.titleClosePattern": {
+        "en": "{{title}}, Close.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.aBSwitch.accessibleNamePattern": {
+        "en": "{{selectedValue}}, Switch to {{otherValue}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.radioButtonGroup.combinedNameResponse": {
+        "en": "{{groupName}}, {{buttonName}}",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.carousel.accessibleRoleDescription": {
+        "en": "carousel",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.carousel.page.accessibleName": {
+        "en": "Page",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.carousel.nextPreviousButtons.nextButton.accessibleName": {
+        "en": "Next",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.carousel.nextPreviousButtons.nextButton.accessibleContextResponse": {
+        "en": "{{number}} more items available.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.carousel.nextPreviousButtons.previousButton.accessibleName": {
+        "en": "Previous",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.carousel.nextPreviousButtons.previousButton.accessibleContextResponse": {
+        "en": "{{number}} previous items available.",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.pageControl.accessibleName": {
+        "en": "Pages",
+        "km": "",
+        "group": "framework-visible"
+      },
+      "a11y.pageControl.dotNode.accessibleNamePattern": {
+        "en": "Page {{pageNumber}}",
+        "km": "",
+        "group": "framework-visible"
+      }
+    },
+    "bamboo": {
+      "bamboo.title": {
+        "en": "Bamboo Demo",
+        "km": "",
+        "group": "framework-unused"
+      }
+    },
+    "tambo": {
+      "tambo.title": {
+        "en": "Tambo Demo",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.simLikeComponents": {
+        "en": "Sim-Like Components",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.uiComponents": {
+        "en": "UI Components",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.testing": {
+        "en": "Testing",
+        "km": "",
+        "group": "framework-unused"
+      }
+    },
+    "twixt": {
+      "twixt.title": {
+        "en": "Twixt Demo",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.animation": {
+        "en": "Animation",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.dampedMotion": {
+        "en": "Damped Motion",
+        "km": "",
+        "group": "framework-unused"
+      },
+      "screen.transitions": {
+        "en": "Transitions",
+        "km": "",
+        "group": "framework-unused"
+      }
+    }
+  }
+}

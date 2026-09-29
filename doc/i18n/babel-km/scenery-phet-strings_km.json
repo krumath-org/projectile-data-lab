@@ -1,0 +1,794 @@
+{
+  "cool": {
+    "value": "ត្រជាក់",
+    "history": [
+      {
+        "userId": 11224520,
+        "timestamp": 1717311000659,
+        "oldValue": "",
+        "newValue": "ត្រជាក់"
+      }
+    ]
+  },
+  "heat": {
+    "value": "ក្ដៅ",
+    "history": [
+      {
+        "userId": 11224520,
+        "timestamp": 1717311000659,
+        "oldValue": "",
+        "newValue": "ក្ដៅ"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "key.backspace": {
+    "value": "Backspace",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Backspace"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.delete": {
+    "value": "Delete",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Delete"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "End"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Enter"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Esc"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Home"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Option",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Option"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Pg Dn"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Pg Up"
+      }
+    ]
+  },
+  "key.return": {
+    "value": "Return",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Return"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Shift"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Space",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Space"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "Tab"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "ដើម្បី<b>ចាប់យក</b> ឬ<b>លែង</b>",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ដើម្បី<b>ចាប់យក</b> ឬ<b>លែង</b>"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "កែសម្រួល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កែសម្រួល"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "កែសម្រួលក្នុងជំហានធំៗ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កែសម្រួលក្នុងជំហានធំៗ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "កែសម្រួលក្នុងជំហានតូចៗ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កែសម្រួលក្នុងជំហានតូចៗ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "កែសម្រួលរបាររំកិល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កែសម្រួលរបាររំកិល"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "សកម្មភាពមូលដ្ឋាន",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "សកម្មភាពមូលដ្ឋាន"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+    "value": "ជ្រើសរើស {{thingTitle}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ជ្រើសរើស {{thingTitle}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "៣. ផ្លាស់ប្តូរ {{thingSingular}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "៣. ផ្លាស់ប្តូរ {{thingSingular}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "៤. បិទដោយមិនផ្លាស់ប្តូរ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "៤. បិទដោយមិនផ្លាស់ប្តូរ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "ផ្លាស់ប្តូរជម្រើស",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ផ្លាស់ប្តូរជម្រើស"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "២. រំកិលកាត់តាម {{thingPlural}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "២. រំកិលកាត់តាម {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "ជម្រើស",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ជម្រើស"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "ជម្រើស",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ជម្រើស"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "១. បង្ហាញ {{thingPlural}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "១. បង្ហាញ {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "ចាកចេញពីផ្ទាំងប្រអប់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ចាកចេញពីផ្ទាំងប្រអប់"
+      }
+    ]
+  },
+  "keyboardHelpDialog.generalNavigation": {
+    "value": "ការរុករកទូទៅ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការរុករកទូទៅ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "ចាប់យក ឬលែង {{thing}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ចាប់យក ឬលែង {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "ចាប់យក ឬលែង {{thing}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ចាប់យក ឬលែង {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolOff": {
+    "value": "បិទ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "បិទ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "លោតទៅអតិបរមា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "លោតទៅអតិបរមា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "លោតទៅ {{maximum}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "លោតទៅ {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "លោតទៅអប្បបរមា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "លោតទៅអប្បបរមា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "លោតទៅ {{minimum}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "លោតទៅ {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "អតិបរមា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "អតិបរមា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumCool": {
+    "value": "ភាពត្រជាក់អតិបរមា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ភាពត្រជាក់អតិបរមា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumHeat": {
+    "value": "កម្ដៅអតិបរមា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កម្ដៅអតិបរមា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "អប្បបរមា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "អប្បបរមា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "រំកិល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិល"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "រំកិលចន្លោះធាតុនានាក្នុងក្រុម",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលចន្លោះធាតុនានាក្នុងក្រុម"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "រំកិលធាតុដែលអាចអូសបាន",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលធាតុដែលអាចអូសបាន"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "រំកិលឱ្យយឺតជាងមុន",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលឱ្យយឺតជាងមុន"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "រំកិលទៅធាតុបន្ទាប់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលទៅធាតុបន្ទាប់"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "រំកិលទៅធាតុ ឬក្រុមបន្ទាប់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលទៅធាតុ ឬក្រុមបន្ទាប់"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "រំកិលទៅធាតុមុន",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលទៅធាតុមុន"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "រំកិលទៅធាតុ ឬក្រុមមុន",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "រំកិលទៅធាតុ ឬក្រុមមុន"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "ឬ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ឬ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "ចុចប៊ូតុង",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ចុចប៊ូតុង"
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "កំណត់ឡើងវិញទាំងអស់",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កំណត់ឡើងវិញទាំងអស់"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "កំណត់តម្លៃនៅលើក្ដារចុចលេខ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "កំណត់តម្លៃនៅលើក្ដារចុចលេខ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "របាររំកិល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "របាររំកិល"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "ការបញ្ជារបាររំកិល",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការបញ្ជារបាររំកិល"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinner": {
+    "value": "ប៊ូតុងបង្កើនបន្ថយ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ប៊ូតុងបង្កើនបន្ថយ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinnerControls": {
+    "value": "ការបញ្ជាប៊ូតុងបង្កើនបន្ថយ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការបញ្ជាប៊ូតុងបង្កើនបន្ថយ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "ផ្អាក ឬបន្តសកម្មភាព",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ផ្អាក ឬបន្តសកម្មភាព"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.timingControls": {
+    "value": "ការបញ្ជាពេលវេលា",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "ការបញ្ជាពេលវេលា"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "បិទ/បើកប្រអប់ធីក",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "បិទ/បើកប្រអប់ធីក"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} ក្នុងជំហានធំៗ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "{{verb}} ក្នុងជំហានធំៗ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} ក្នុងជំហានតូចៗ",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "{{verb}} ក្នុងជំហានតូចៗ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 0,
+        "timestamp": 1790699559517,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "លឿន",
+    "history": [
+      {
+        "userId": 11224520,
+        "timestamp": 1713835566905,
+        "oldValue": "",
+        "newValue": "លឿន"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "ធម្មតា",
+    "history": [
+      {
+        "userId": 11224520,
+        "timestamp": 1713835566905,
+        "oldValue": "",
+        "newValue": "ធម្មតា"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "យឺត",
+    "history": [
+      {
+        "userId": 11224520,
+        "timestamp": 1713835566905,
+        "oldValue": "",
+        "newValue": "យឺត"
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "ជំហានរលក",
+    "history": [
+      {
+        "userId": 11224520,
+        "timestamp": 1714120703349,
+        "oldValue": "",
+        "newValue": "ជំហានរលក"
+      }
+    ]
+  }
+}

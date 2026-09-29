@@ -85,12 +85,18 @@ export default class BinControlNode extends HBox {
         // strategies
 
         // The label: 'Bin width' or 'Total bins'
+        // Khmer strings are much longer than English; a tight maxWidth scales the text down.
+        // Only widen these labels — do not change shared PDLConstants fonts.
         new ToggleNode( PDLPreferences.binStrategyProperty, [ {
           value: 'binWidth',
-          createNode: () => new PDLText( ProjectileDataLabStrings.binWidthStringProperty, { maxWidth: 90 } )
+          createNode: () => new PDLText( ProjectileDataLabStrings.binWidthStringProperty, {
+            maxWidth: 150
+          } )
         }, {
           value: 'totalBins',
-          createNode: () => new PDLText( ProjectileDataLabStrings.totalBinsStringProperty, { maxWidth: 90 } )
+          createNode: () => new PDLText( ProjectileDataLabStrings.totalBinsStringProperty, {
+            maxWidth: 150
+          } )
         } ], {
           alignChildren: ToggleNode.RIGHT,
           layoutOptions: {

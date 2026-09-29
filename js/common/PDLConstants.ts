@@ -87,7 +87,7 @@ const PDLConstants = {
   MEASURING_TAPE_FONT: new PhetFont( { size: 13, weight: 'bold' } ),
   INTERVAL_TOOL_FONT: new PhetFont( { size: 13 } ),
   SELECTOR_FONT: new PhetFont( { size: 14 } ),
-  HISTOGRAM_PANEL_FONT: new PhetFont( { size: 12, family: 'Helvetica' } ),
+  HISTOGRAM_PANEL_FONT: new PhetFont( { size: 12 } ),
   SAMPLING_HISTOGRAM_PANEL_FONT: new PhetFont( { size: 13 } ),
 
   // Allow the top content to go above the dev bounds, but not too far

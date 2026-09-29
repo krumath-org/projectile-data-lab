@@ -1,0 +1,1657 @@
+{
+  "_README": [
+    "Khmer (km) translation workbook — \"Projectile Data Lab\" PhET simulation.",
+    "",
+    "SCOPE: ONLY on-screen UI text Cambodian students can see:",
+    "  - Sim screens, controls, and Simulation/Audio Preferences",
+    "  - Preferences / Settings tabs (Visual, Audio, Localization, …)",
+    "  - PhET menu, About / Credits / License / Updates dialogs",
+    "  - Keyboard Shortcuts dialog headings and labels",
+    "  - Speed labels (Normal / Slow / Fast)",
+    "",
+    "REMOVED (not translated here):",
+    "  - Screen-reader / a11y-only strings (not visible on screen)",
+    "  - Unused shared-library demos, unit catalogs, backend/PhET-iO text",
+    "  - Hardcoded accessible names that never appear as visible labels",
+    "",
+    "HOW TO USE:",
+    "  1. Read the \"en\" (English) value.",
+    "  2. Type the Khmer translation into the \"km\" field.",
+    "  3. Leaving \"km\" empty keeps that string in English.",
+    "  4. Send this file back and the translations get applied into the codebase.",
+    "",
+    "IMPORTANT — placeholders:",
+    "  Keep every {{...}} and {0}/{1}/... token exactly as-is.",
+    "",
+    "NOTES:",
+    "  - Do NOT rename any keys.",
+    "  - Some \"km\" values are prefilled from your Projectile Sampling Distributions workbook — please review.",
+    "  - On return, non-empty km values go to babel/<repo>/<repo>-strings_km.json",
+    "  - Full inventory (including unused) is kept separately as km-full-string-inventory-reference.json"
+  ],
+  "_meta": {
+    "project": "Projectile Data Lab",
+    "locale": "km",
+    "localeName": "Khmer",
+    "generated": "2026-09-29",
+    "scope": "visual-ui-only",
+    "totalStrings": 200,
+    "alreadyTranslated": 200,
+    "remaining": 0,
+    "byGroup": {
+      "sim-content": 77,
+      "framework-visible": 85,
+      "framework-dialogs": 38
+    },
+    "byRepo": {
+      "projectile-data-lab": 77,
+      "joist": 54,
+      "scenery-phet": 69
+    }
+  },
+  "strings": {
+    "projectile-data-lab.title": {
+      "en": "Projectile Data Lab",
+      "km": "បន្ទប់ពិសោធន៍ទិន្នន័យចលនាគប់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "projectile-data-lab.title",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "screen.variability": {
+      "en": "Variability",
+      "km": "អថេរភាព",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "screen.variability",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "screen.sources": {
+      "en": "Sources",
+      "km": "ប្រភព",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "screen.sources",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "screen.measures": {
+      "en": "Measures",
+      "km": "រង្វាស់រង្វាល់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "screen.measures",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "screen.sampling": {
+      "en": "Sampling",
+      "km": "ការទាញយកសំណាក",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "screen.sampling",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "single": {
+      "en": "Single",
+      "km": "ទោល",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "single",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launch": {
+      "en": "Launch",
+      "km": "បាញ់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launch",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "stop": {
+      "en": "Stop",
+      "km": "បញ្ឈប់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "stop",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "continuous": {
+      "en": "Continuous",
+      "km": "បន្តបន្ទាប់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "continuous",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "noAirResistance": {
+      "en": "No air resistance",
+      "km": "គ្មានកម្លាំងទប់នៃខ្យល់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "noAirResistance",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "orientation": {
+      "en": "Orientation",
+      "km": "ទិសដៅ/ការកំណត់ទិស",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "orientation",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "projectile": {
+      "en": "Projectile",
+      "km": "អង្គធាតុរងចលនាគប់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "projectile",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launcherNumberPattern": {
+      "en": "Launcher {{number}}",
+      "km": "កាំភ្លើងបាញ់ {{number}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launcherNumberPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "angleStability": {
+      "en": "Angle Stability",
+      "km": "ស្ថិរភាពមុំ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "angleStability",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "min": {
+      "en": "min",
+      "km": "អប្បបរមា",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "min",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "max": {
+      "en": "max",
+      "km": "អតិបរមា",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "max",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "mysteryLauncher": {
+      "en": "Mystery Launcher",
+      "km": "កាំភ្លើងបាញ់អាថ៌កំបាំង",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "mysteryLauncher",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "customLauncher": {
+      "en": "Custom Launcher",
+      "km": "កាំភ្លើងបាញ់តាមបំណង",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "customLauncher",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "histogram": {
+      "en": "Histogram",
+      "km": "អ៊ីស្តូក្រាម",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "histogram",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "fieldNumberPattern": {
+      "en": "Field {{number}}",
+      "km": "ទីលាន {{number}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "fieldNumberPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "noData": {
+      "en": "No data",
+      "km": "គ្មានទិន្នន័យ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "noData",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "mean": {
+      "en": "Mean",
+      "km": "មធ្យមភាគ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "mean",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "standardDeviation": {
+      "en": "Standard Deviation",
+      "km": "គម្លាតស្តង់ដា",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "standardDeviation",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "values": {
+      "en": "Values",
+      "km": "តម្លៃ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "values",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "sampleSizeN": {
+      "en": "Sample Size (n)",
+      "km": "ទំហំសំណាក (n)",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "sampleSizeN",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "paths": {
+      "en": "Paths",
+      "km": "គន្លង",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "paths",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "speed": {
+      "en": "Speed",
+      "km": "ល្បឿន",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "speed",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launchSpeed": {
+      "en": "Launch Speed",
+      "km": "ល្បឿនបាញ់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launchSpeed",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "angle": {
+      "en": "Angle",
+      "km": "មុំ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "angle",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launchAngle": {
+      "en": "Launch Angle",
+      "km": "មុំបាញ់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launchAngle",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "measuringTape": {
+      "en": "Measuring Tape",
+      "km": "ខ្សែម៉ែត្រ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "measuringTape",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "stopwatch": {
+      "en": "Stopwatch",
+      "km": "នាឡិកាវាស់ស្ទង់ពេល",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "stopwatch",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "intervalTool": {
+      "en": "Interval Tool",
+      "km": "ឧបករណ៍ចន្លោះ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "intervalTool",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "meanEqualsValueMPattern": {
+      "en": "Mean = {{value}} m",
+      "km": "មធ្យមភាគ = {{value}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "meanEqualsValueMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "meanXBarEqualsValueMPattern": {
+      "en": "Mean (x̅) = {{value}} m",
+      "km": "មធ្យមភាគ (x̅) = {{value}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "meanXBarEqualsValueMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "standardDeviationMPattern": {
+      "en": "{{standardDeviation}} m",
+      "km": "{{standardDeviation}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "standardDeviationMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "standardDeviationEqualsValueMPattern": {
+      "en": "Standard deviation = {{value}} m",
+      "km": "គម្លាតស្តង់ដា = {{value}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "standardDeviationEqualsValueMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "standardErrorOfXBarEqualsValueMPattern": {
+      "en": "Standard error of x̅ = {{value}} m",
+      "km": "កំហុសស្តង់ដានៃ x̅ = {{value}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "standardErrorOfXBarEqualsValueMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "valueMetersPerSecondPattern": {
+      "en": "{{value}} m/s",
+      "km": "{{value}} m/s",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "valueMetersPerSecondPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "valueDegreesPattern": {
+      "en": "{{value}}°",
+      "km": "{{value}}°",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "valueDegreesPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "nEqualsSampleSizePattern": {
+      "en": "n = {{sampleSize}}",
+      "km": "n = {{sampleSize}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "nEqualsSampleSizePattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "sampleNumberOfCountPattern": {
+      "en": "Sample {{number}} of {{count}}",
+      "km": "សំណាកទី {{number}} នៃ {{count}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "sampleNumberOfCountPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "numberOfCountPattern": {
+      "en": "{{number}} of {{count}}",
+      "km": "{{number}} នៃ {{count}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "numberOfCountPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "binWidthMPattern": {
+      "en": "{{binWidth}} m",
+      "km": "{{binWidth}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "binWidthMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "intervalMPattern": {
+      "en": "{{interval}} m",
+      "km": "{{interval}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "intervalMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "meanMPattern": {
+      "en": "{{mean}} m",
+      "km": "{{mean}} m",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "meanMPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "distance": {
+      "en": "Distance",
+      "km": "ចម្ងាយ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "distance",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "meanDistance": {
+      "en": "Mean Distance",
+      "km": "ចម្ងាយមធ្យម",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "meanDistance",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "count": {
+      "en": "Count",
+      "km": "ចំនួនរាប់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "count",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "binWidth": {
+      "en": "Bin Width",
+      "km": "ប្រវែងទទឹងចន្លោះថ្នាក់ (Bin Width)",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "binWidth",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "totalBins": {
+      "en": "Total Bins",
+      "km": "ចំនួនចន្លោះថ្នាក់សរុប (Total Bins)",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "totalBins",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "histogramBins": {
+      "en": "Histogram Bins",
+      "km": "ចន្លោះថ្នាក់អ៊ីស្តូក្រាម (Histogram Bins)",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "histogramBins",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "histogramBinsPreferenceDescription": {
+      "en": "The histogram can represent data based on the width of the bins or by the total number of bins on the field.",
+      "km": "អ៊ីស្តូក្រាមអាចបង្ហាញទិន្នន័យដោយផ្អែកលើប្រវែងទទឹងនៃចន្លោះថ្នាក់ ឬចំនួនសរុបនៃចន្លោះថ្នាក់នៅលើទីលាន។",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "histogramBinsPreferenceDescription",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "showStandardError": {
+      "en": "Show Standard Error",
+      "km": "បង្ហាញកំហុសស្តង់ដា",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "showStandardError",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "showStandardErrorPreferenceDescription": {
+      "en": "Determines whether the standard error of the mean is displayed when Values is selected on the Measures screen.",
+      "km": "កំណត់ថាតើត្រូវបង្ហាញកំហុសស្តង់ដានៃមធ្យមភាគ នៅពេលដែល \"តម្លៃ\" ត្រូវបានជ្រើសរើសនៅលើអេក្រង់រង្វាស់រង្វាល់ឬអត់។",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "showStandardErrorPreferenceDescription",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launchSound": {
+      "en": "Launch Sound",
+      "km": "សំឡេងបាញ់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launchSound",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "none": {
+      "en": "None",
+      "km": "គ្មាន",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "none",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launchSoundPreferenceDescription": {
+      "en": "The launch sound can represent either the initial speed or initial angle of the projectile, or it can be turned off.",
+      "km": "សំឡេងបាញ់អាចតំណាងឱ្យល្បឿនដើម ឬមុំដើមនៃអង្គធាតុរងចលនាគប់ ឬអាចបិទវាបាន។",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launchSoundPreferenceDescription",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "playLandingSound": {
+      "en": "Play Landing Sound",
+      "km": "ចាក់សំឡេងពេលធ្លាក់ដល់ដី",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "playLandingSound",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "playLandingSoundPreferenceDescription": {
+      "en": "Determines whether a sound is played when a projectile lands.",
+      "km": "កំណត់ថាតើត្រូវចាក់សំឡេងនៅពេលអង្គធាតុរងចលនាគប់ធ្លាក់ដល់ដីឬអត់។",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "playLandingSoundPreferenceDescription",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "percentPattern": {
+      "en": "{{percent}}%",
+      "km": "{{percent}}%",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "percentPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "sampleSizeNPattern": {
+      "en": "Sample size (n): {{sampleSize}}",
+      "km": "ទំហំសំណាក (n)៖ {{sampleSize}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "sampleSizeNPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "numberOfSamplesPattern": {
+      "en": "Number of samples: {{numberOfSamples}}",
+      "km": "ចំនួនសំណាក៖ {{numberOfSamples}}",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "numberOfSamplesPattern",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "fromAnywhereInSim": {
+      "en": "From Anywhere in Sim",
+      "km": "ពីកន្លែងណាមួយក្នុងការពិសោធន៍ក្លែងធ្វើ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "fromAnywhereInSim",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "goToField": {
+      "en": "Go to field",
+      "km": "ទៅកាន់ទីលាន",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "goToField",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "creating": {
+      "en": "Creating...",
+      "km": "កំពុងបង្កើត...",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "creating",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "launchOrStopProjectiles": {
+      "en": "Launch or stop projectiles",
+      "km": "បាញ់ ឬបញ្ឈប់អង្គធាតុរងចលនាគប់",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "launchOrStopProjectiles",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "autoGenerateData": {
+      "en": "Auto-Generate Data",
+      "km": "បង្កើតទិន្នន័យដោយស្វ័យប្រវត្តិ",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "autoGenerateData",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "autoGenerateDataPreferenceDescription": {
+      "en": "Makes it so the launch button generates a full set of data.",
+      "km": "កំណត់ឱ្យប៊ូតុងបាញ់បង្កើតសំណុំទិន្នន័យពេញលេញមួយ។",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "autoGenerateDataPreferenceDescription",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "projectileTypeAffectsSpeed": {
+      "en": "Projectile Type Affects Speed",
+      "km": "ប្រភេទអង្គធាតុជះឥទ្ធិពលលើល្បឿន",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "projectileTypeAffectsSpeed",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "projectileTypeAffectsSpeedPreferenceDescription": {
+      "en": "Determines whether the type of projectile affects its mean launch speed.",
+      "km": "កំណត់ថាតើប្រភេទនៃអង្គធាតុរងចលនាគប់ជះឥទ្ធិពលលើល្បឿនបាញ់មធ្យមរបស់វាឬអត់។",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "projectileTypeAffectsSpeedPreferenceDescription",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardHelpDialog.measuresScreen.movePointerIntervalHandleOrIntervalBlock": {
+      "en": "Move Interval Tool or its Edges",
+      "km": "រំកិលឧបករណ៍ចន្លោះ ឬគែមរបស់វា",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "keyboardHelpDialog.measuresScreen.movePointerIntervalHandleOrIntervalBlock",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardHelpDialog.measuresScreen.object": {
+      "en": "Interval Tool or its Edges",
+      "km": "ឧបករណ៍ចន្លោះ ឬគែមរបស់វា",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "keyboardHelpDialog.measuresScreen.object",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardHelpDialog.measuresScreen.move": {
+      "en": "Move",
+      "km": "រំកិល",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "keyboardHelpDialog.measuresScreen.move",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardHelpDialog.measuresScreen.endOfNumberLine": {
+      "en": "End of the Field",
+      "km": "ចុងបញ្ចប់នៃទីលាន",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "keyboardHelpDialog.measuresScreen.endOfNumberLine",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardHelpDialog.measuresScreen.startOfNumberLine": {
+      "en": "Start of the Field",
+      "km": "ចំណុចចាប់ផ្តើមនៃទីលាន",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "keyboardHelpDialog.measuresScreen.startOfNumberLine",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardHelpDialog.histogramBinControls": {
+      "en": "Histogram Bin Controls",
+      "km": "ការបញ្ជាចន្លោះថ្នាក់អ៊ីស្តូក្រាម",
+      "group": "sim-content",
+      "repo": "projectile-data-lab",
+      "sourceKey": "keyboardHelpDialog.histogramBinControls",
+      "babelTargetFile": "babel/projectile-data-lab/projectile-data-lab-strings_km.json"
+    },
+    "keyboardShortcuts.title": {
+      "en": "Keyboard Shortcuts",
+      "km": "ផ្លូវកាត់ក្តារចុច",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "keyboardShortcuts.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.title": {
+      "en": "Preferences",
+      "km": "ចំណង់ចំណូលចិត្ត",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.overview.title": {
+      "en": "Overview",
+      "km": "ទិដ្ឋភាពទូទៅ",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.overview.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.general.accessibilityIntro": {
+      "en": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings.",
+      "km": "យើងកំពុងបន្ថែមមុខងារនានាទៅកាន់ការពិសោធន៍ក្លែងធ្វើរបស់យើង ដើម្បីឱ្យកាន់តែមានលក្ខណៈទូលំទូលាយសម្រាប់អ្នកសិក្សាគ្រប់រូប។ មុខងារមួយចំនួនគាំទ្រដល់លទ្ធភាពប្រើប្រាស់សម្រាប់អ្នកសិក្សាដែលមានតម្រូវការចម្រុះ និងក្នុងបរិយាកាសផ្សេងៗគ្នា។ សូមស្វែងយល់ពីម៉ឺនុយនេះដើម្បីពិនិត្យឡើងវិញ ឬផ្លាស់ប្តូរការកំណត់បទបង្ហាញលំនាំដើម។",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.general.accessibilityIntro",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.general.moreAccessibility": {
+      "en": "Look for Inclusive Features on the Simulations Filter page of the PhET website to find all simulations with available features.",
+      "km": "ស្វែងរក \"មុខងារបរិយាបន្ន\" នៅលើទំព័រតម្រងការពិសោធន៍ក្លែងធ្វើនៃគេហទំព័រ PhET ដើម្បីស្វែងរកការពិសោធន៍ក្លែងធ្វើទាំងអស់ដែលមានមុខងារទាំងនេះ។",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.general.moreAccessibility",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.simulation.title": {
+      "en": "Simulation",
+      "km": "ការពិសោធន៍ក្លែងធ្វើ",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.simulation.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.visual.title": {
+      "en": "Visual",
+      "km": "រូបភាព/គំហើញ",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.visual.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.visual.interactiveHighlights": {
+      "en": "Interactive Highlights",
+      "km": "ការរំលេចពណ៌នៅពេលអន្តរកម្ម",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.visual.interactiveHighlights",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.visual.interactiveHighlightsDescription": {
+      "en": "Add visual highlights for mouse and touch as you interact.",
+      "km": "បន្ថែមការរំលេចពណ៌សម្រាប់កណ្ដុរ និងការប៉ះបញ្ជា នៅពេលអ្នកធ្វើអន្តរកម្ម។",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.visual.interactiveHighlightsDescription",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.audio.title": {
+      "en": "Audio",
+      "km": "សំឡេង",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.audio.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.audio.sounds.title": {
+      "en": "Sounds",
+      "km": "សំឡេង",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.audio.sounds.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.audio.audioFeatures.title": {
+      "en": "Audio Features",
+      "km": "មុខងារសំឡេង",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.audio.audioFeatures.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.audio.sounds.description": {
+      "en": "Play sonifications and sound effects as you interact.",
+      "km": "ចាក់សំឡេងតំណាងទិន្នន័យ និងសំឡេងបែបផែននៅពេលអ្នកធ្វើអន្តរកម្ម។",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.audio.sounds.description",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.localization.title": {
+      "en": "Localization",
+      "km": "ការធ្វើមូលដ្ឋានីយកម្ម",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.localization.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.localization.languageSelection.title": {
+      "en": "Languages",
+      "km": "ភាសា",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.localization.languageSelection.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "preferences.tabs.localization.languageSelection.description": {
+      "en": "Change language to translate on-screen text. Additional descriptions, when present, remain in English.",
+      "km": "ផ្លាស់ប្តូរភាសាដើម្បីបកប្រែអត្ថបទលើអេក្រង់។ ការពិពណ៌នាបន្ថែម (ប្រសិនបើមាន) នឹងនៅតែជាភាសាអង់គ្លេស។",
+      "group": "framework-visible",
+      "repo": "joist",
+      "sourceKey": "preferences.tabs.localization.languageSelection.description",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "done": {
+      "en": "Done",
+      "km": "រួចរាល់",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "done",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.options": {
+      "en": "Options…",
+      "km": "ជម្រើស…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.options",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.about": {
+      "en": "About…",
+      "km": "អំពី…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.about",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.outputLog": {
+      "en": "Output Log",
+      "km": "កំណត់ហេតុលទ្ធផល",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.outputLog",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.phetWebsite": {
+      "en": "PhET Website…",
+      "km": "គេហទំព័រ PhET…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.phetWebsite",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.reportAProblem": {
+      "en": "Report a Problem…",
+      "km": "រាយការណ៍បញ្ហា…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.reportAProblem",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.screenshot": {
+      "en": "Screenshot",
+      "km": "រូបថតអេក្រង់",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.screenshot",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.fullscreen": {
+      "en": "Full Screen",
+      "km": "ពេញអេក្រង់",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.fullscreen",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.getUpdate": {
+      "en": "Check for Updates…",
+      "km": "ពិនិត្យមើលបច្ចុប្បន្នភាព…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.getUpdate",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "menuItem.enhancedSound": {
+      "en": "Extra Sound",
+      "km": "សំឡេងបន្ថែម",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "menuItem.enhancedSound",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "title.settings": {
+      "en": "Settings",
+      "km": "ការកំណត់",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "title.settings",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "showPointers": {
+      "en": "Show Pointers",
+      "km": "បង្ហាញទ្រនិចចង្អុល",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "showPointers",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "termsPrivacyAndLicensing": {
+      "en": "Terms, Privacy & Licensing",
+      "km": "លក្ខខណ្ឌ ឯកជនភាព និងអាជ្ញាបណ្ណ",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "termsPrivacyAndLicensing",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "privacyPolicy": {
+      "en": "Privacy Policy",
+      "km": "គោលការណ៍ឯកជនភាព",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "privacyPolicy",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "donateToPhet": {
+      "en": "Donate to PhET",
+      "km": "បរិច្ចាគដល់ PhET",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "donateToPhet",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "options.title": {
+      "en": "Options",
+      "km": "ជម្រើស",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "options.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "license.title": {
+      "en": "License",
+      "km": "អាជ្ញាបណ្ណ",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "license.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.title": {
+      "en": "Credits",
+      "km": "ការទទួលស្គាល់ការចូលរួម",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.title",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.leadDesign": {
+      "en": "Lead Design: {0}",
+      "km": "អ្នកដឹកនាំការរចនា៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.leadDesign",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.softwareDevelopment": {
+      "en": "Software Development: {0}",
+      "km": "ការអភិវឌ្ឍកម្មវិធី៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.softwareDevelopment",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.team": {
+      "en": "Team: {0}",
+      "km": "ក្រុមការងារ៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.team",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.contributors": {
+      "en": "Contributors: {0}",
+      "km": "អ្នករួមចំណែក៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.contributors",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.qualityAssurance": {
+      "en": "Quality Assurance: {0}",
+      "km": "ការធានាគុណភាព៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.qualityAssurance",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.graphicArts": {
+      "en": "Graphic Arts: {0}",
+      "km": "សិល្បៈក្រាហ្វិក៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.graphicArts",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.soundDesign": {
+      "en": "Sound Design: {0}",
+      "km": "ការរចនាសំឡេង៖ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.soundDesign",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.translation": {
+      "en": "Translation",
+      "km": "ការបកប្រែ",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.translation",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "credits.thanks": {
+      "en": "Thanks",
+      "km": "ថ្លែងអំណរគុណ",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "credits.thanks",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "versionPattern": {
+      "en": "version {0}",
+      "km": "កំណែ {0}",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "versionPattern",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.upToDate": {
+      "en": "This simulation is up to date.",
+      "km": "ការពិសោធន៍ក្លែងធ្វើនេះគឺទាន់សម័យហើយ។",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.upToDate",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.outOfDate": {
+      "en": "New version available",
+      "km": "មានកំណែថ្មី",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.outOfDate",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.checking": {
+      "en": "Checking for updates…",
+      "km": "កំពុងពិនិត្យមើលបច្ចុប្បន្នភាព…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.checking",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.offline": {
+      "en": "Unable to check for updates.",
+      "km": "មិនអាចពិនិត្យមើលបច្ចុប្បន្នភាពបានទេ។",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.offline",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.newVersionAvailable": {
+      "en": "There is a new version available: {0}.",
+      "km": "មានកំណែថ្មីដែលអាចប្រើបាន៖ {0}។",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.newVersionAvailable",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.yourCurrentVersion": {
+      "en": "Your current version is: {0}.",
+      "km": "កំណែបច្ចុប្បន្នរបស់អ្នកគឺ៖ {0}។",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.yourCurrentVersion",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.getUpdate": {
+      "en": "Get Update…",
+      "km": "ធ្វើបច្ចុប្បន្នភាព…",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.getUpdate",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "updates.noThanks": {
+      "en": "No Thanks",
+      "km": "ទេ អរគុណ",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "updates.noThanks",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "translation.credits.link": {
+      "en": "Translation Credits",
+      "km": "ការទទួលស្គាល់ការបកប្រែ",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "translation.credits.link",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "thirdParty.credits.link": {
+      "en": "Third-party Credits",
+      "km": "ការទទួលស្គាល់ភាគីទីបី",
+      "group": "framework-dialogs",
+      "repo": "joist",
+      "sourceKey": "thirdParty.credits.link",
+      "babelTargetFile": "babel/joist/joist-strings_km.json"
+    },
+    "speed.normal": {
+      "en": "Normal",
+      "km": "ធម្មតា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "speed.normal",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json",
+      "kmExists": true
+    },
+    "speed.slow": {
+      "en": "Slow",
+      "km": "យឺត",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "speed.slow",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json",
+      "kmExists": true
+    },
+    "speed.fast": {
+      "en": "Fast",
+      "km": "លឿន",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "speed.fast",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json",
+      "kmExists": true
+    },
+    "key.tab": {
+      "en": "Tab",
+      "km": "Tab",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.tab",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.shift": {
+      "en": "Shift",
+      "km": "Shift",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.shift",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.alt": {
+      "en": "Alt",
+      "km": "Alt",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.alt",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.option": {
+      "en": "Option",
+      "km": "Option",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.option",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.capsLock": {
+      "en": "Caps Lock",
+      "km": "Caps Lock",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.capsLock",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.enter": {
+      "en": "Enter",
+      "km": "Enter",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.enter",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.return": {
+      "en": "Return",
+      "km": "Return",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.return",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.backspace": {
+      "en": "Backspace",
+      "km": "Backspace",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.backspace",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.delete": {
+      "en": "Delete",
+      "km": "Delete",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.delete",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.space": {
+      "en": "Space",
+      "km": "Space",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.space",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.esc": {
+      "en": "Esc",
+      "km": "Esc",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.esc",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.fn": {
+      "en": "Fn",
+      "km": "Fn",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.fn",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.pageUp": {
+      "en": "Pg Up",
+      "km": "Pg Up",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.pageUp",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.pageDown": {
+      "en": "Pg Dn",
+      "km": "Pg Dn",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.pageDown",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.home": {
+      "en": "Home",
+      "km": "Home",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.home",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.end": {
+      "en": "End",
+      "km": "End",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.end",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "key.toGrabOrRelease": {
+      "en": "to <b>Grab</b> or <b>Release</b>",
+      "km": "ដើម្បី<b>ចាប់យក</b> ឬ<b>លែង</b>",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "key.toGrabOrRelease",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.sliderControls": {
+      "en": "Slider Controls",
+      "km": "ការបញ្ជារបាររំកិល",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.sliderControls",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.adjustSlider": {
+      "en": "Adjust slider",
+      "km": "កែសម្រួលរបាររំកិល",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.adjustSlider",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.spinnerControls": {
+      "en": "Spinner Controls",
+      "km": "ការបញ្ជាប៊ូតុងបង្កើនបន្ថយ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.spinnerControls",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.adjustInSmallerSteps": {
+      "en": "Adjust in smaller steps",
+      "km": "កែសម្រួលក្នុងជំហានតូចៗ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.adjustInSmallerSteps",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.adjustInLargerSteps": {
+      "en": "Adjust in larger steps",
+      "km": "កែសម្រួលក្នុងជំហានធំៗ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.adjustInLargerSteps",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.jumpToMinimum": {
+      "en": "Jump to minimum",
+      "km": "លោតទៅអប្បបរមា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.jumpToMinimum",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.jumpToMaximum": {
+      "en": "Jump to maximum",
+      "km": "លោតទៅអតិបរមា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.jumpToMaximum",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.adjust": {
+      "en": "Adjust",
+      "km": "កែសម្រួល",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.adjust",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.slider": {
+      "en": "slider",
+      "km": "របាររំកិល",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.slider",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.spinner": {
+      "en": "spinner",
+      "km": "ប៊ូតុងបង្កើនបន្ថយ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.spinner",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.maximumHeat": {
+      "en": "Maximum heat",
+      "km": "កម្ដៅអតិបរមា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.maximumHeat",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.maximumCool": {
+      "en": "Maximum cool",
+      "km": "ភាពត្រជាក់អតិបរមា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.maximumCool",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.heatCoolOff": {
+      "en": "Off",
+      "km": "បិទ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.heatCoolOff",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.verbSliderPattern": {
+      "en": "{{verb}} {{slider}}",
+      "km": "{{verb}} {{slider}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.verbSliderPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.verbInSmallerStepsPattern": {
+      "en": "{{verb}} in smaller steps",
+      "km": "{{verb}} ក្នុងជំហានតូចៗ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.verbInSmallerStepsPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.verbInLargerStepsPattern": {
+      "en": "{{verb}} in larger steps",
+      "km": "{{verb}} ក្នុងជំហានធំៗ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.verbInLargerStepsPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.minimum": {
+      "en": "minimum",
+      "km": "អប្បបរមា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.minimum",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.maximum": {
+      "en": "maximum",
+      "km": "អតិបរមា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.maximum",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.jumpToMinimumPattern": {
+      "en": "Jump to {{minimum}}",
+      "km": "លោតទៅ {{minimum}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.jumpToMinimumPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.jumpToMaximumPattern": {
+      "en": "Jump to {{maximum}}",
+      "km": "លោតទៅ {{maximum}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.jumpToMaximumPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.generalNavigation": {
+      "en": "General Navigation",
+      "km": "ការរុករកទូទៅ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.generalNavigation",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.basicActions": {
+      "en": "Basic Actions",
+      "km": "សកម្មភាពមូលដ្ឋាន",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.basicActions",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveToNextItem": {
+      "en": "Move to next item",
+      "km": "រំកិលទៅធាតុបន្ទាប់",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveToNextItem",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveToPreviousItem": {
+      "en": "Move to previous item",
+      "km": "រំកិលទៅធាតុមុន",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveToPreviousItem",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveToNextItemOrGroup": {
+      "en": "Move to next item or group",
+      "km": "រំកិលទៅធាតុ ឬក្រុមបន្ទាប់",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveToNextItemOrGroup",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+      "en": "Move to previous item or group",
+      "km": "រំកិលទៅធាតុ ឬក្រុមមុន",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveToPreviousItemOrGroup",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.pressButtons": {
+      "en": "Press buttons",
+      "km": "ចុចប៊ូតុង",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.pressButtons",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+      "en": "Move between items in a group",
+      "km": "រំកិលចន្លោះធាតុនានាក្នុងក្រុម",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveBetweenItemsInAGroup",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.setValuesInKeypad": {
+      "en": "Set values within keypad",
+      "km": "កំណត់តម្លៃនៅលើក្ដារចុចលេខ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.setValuesInKeypad",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.resetAll": {
+      "en": "Reset All",
+      "km": "កំណត់ឡើងវិញទាំងអស់",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.resetAll",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.exitADialog": {
+      "en": "Exit a dialog",
+      "km": "ចាកចេញពីផ្ទាំងប្រអប់",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.exitADialog",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.toggleCheckboxes": {
+      "en": "Toggle checkboxes",
+      "km": "បិទ/បើកប្រអប់ធីក",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.toggleCheckboxes",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.or": {
+      "en": "or",
+      "km": "ឬ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.or",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.hyphen": {
+      "en": "-",
+      "km": "-",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.hyphen",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+      "en": "Grab or Release {{thing}}",
+      "km": "ចាប់យក ឬលែង {{thing}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.grabOrReleaseHeadingPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+      "en": "Grab or release {{thing}}",
+      "km": "ចាប់យក ឬលែង {{thing}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.grabOrReleaseLabelPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+      "en": "Choose a {{thingTitle}}",
+      "km": "ជ្រើសរើស {{thingTitle}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.chooseAThingPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.headingString": {
+      "en": "Change Choice",
+      "km": "ផ្លាស់ប្តូរជម្រើស",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.headingString",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.popUpListPattern": {
+      "en": "1. Show {{thingPlural}}",
+      "km": "១. បង្ហាញ {{thingPlural}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.popUpListPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.moveThroughPattern": {
+      "en": "2. Move through {{thingPlural}}",
+      "km": "២. រំកិលកាត់តាម {{thingPlural}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.moveThroughPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.chooseNewPattern": {
+      "en": "3. Change {{thingSingular}}",
+      "km": "៣. ផ្លាស់ប្តូរ {{thingSingular}}",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.chooseNewPattern",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+      "en": "4. Close without changing",
+      "km": "៤. បិទដោយមិនផ្លាស់ប្តូរ",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.closeWithoutChanging",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.options": {
+      "en": "choices",
+      "km": "ជម្រើស",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.options",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.comboBox.option": {
+      "en": "choice",
+      "km": "ជម្រើស",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.comboBox.option",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveDraggableItems": {
+      "en": "Move Draggable Items",
+      "km": "រំកិលធាតុដែលអាចអូសបាន",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveDraggableItems",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.move": {
+      "en": "Move",
+      "km": "រំកិល",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.move",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.moveSlower": {
+      "en": "Move slower",
+      "km": "រំកិលឱ្យយឺតជាងមុន",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.moveSlower",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.timingControls.timingControls": {
+      "en": "Time Controls",
+      "km": "ការបញ្ជាពេលវេលា",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.timingControls.timingControls",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    },
+    "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+      "en": "Pause or play action",
+      "km": "ផ្អាក ឬបន្តសកម្មភាព",
+      "group": "framework-visible",
+      "repo": "scenery-phet",
+      "sourceKey": "keyboardHelpDialog.timingControls.pauseOrPlayAction",
+      "babelTargetFile": "babel/scenery-phet/scenery-phet-strings_km.json"
+    }
+  }
+}
