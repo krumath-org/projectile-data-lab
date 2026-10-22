@@ -9,9 +9,10 @@
 import DerivedProperty from '../../../../axon/js/DerivedProperty.js';
 import PatternStringProperty from '../../../../axon/js/PatternStringProperty.js';
 import Utils from '../../../../dot/js/Utils.js';
-import optionize, { EmptySelfOptions } from '../../../../phet-core/js/optionize.js';
+import optionize from '../../../../phet-core/js/optionize.js';
 import StrictOmit from '../../../../phet-core/js/types/StrictOmit.js';
 import ManualConstraint from '../../../../scenery/js/layout/constraints/ManualConstraint.js';
+import Node from '../../../../scenery/js/nodes/Node.js';
 import PDLConstants from '../../common/PDLConstants.js';
 import PDLPreferences from '../../common/PDLPreferences.js';
 import PDLQueryParameters from '../../common/PDLQueryParameters.js';
@@ -30,7 +31,14 @@ import SamplingCanvasNode from './SamplingCanvasNode.js';
 import SamplingFieldSignNode from './SamplingFieldSignNode.js';
 import SamplingLaunchPanel from './SamplingLaunchPanel.js';
 
-type SelfOptions = EmptySelfOptions;
+type SelfOptions = {
+
+  // Optional node shown in the top-right corner of the screen view
+  languageSwitchNode?: Node | null;
+
+  // Horizontal alignment of the pause/speed controls below the histogram
+  timeControlAlignment?: 'left' | 'right';
+};
 
 type SamplingScreenViewOptions = SelfOptions & StrictOmit<PDLScreenViewOptions, 'createLauncherNode'>;
 
@@ -42,6 +50,9 @@ export default class SamplingScreenView extends PDLScreenView<SamplingField> {
 
   public constructor( model: SamplingModel, providedOptions: SamplingScreenViewOptions ) {
     const options = optionize<SamplingScreenViewOptions, SelfOptions, PDLScreenViewOptions>()( {
+
+      languageSwitchNode: null,
+      timeControlAlignment: 'right',
 
       createLauncherNode: modelViewTransform => new LauncherNode(
         modelViewTransform,
@@ -176,6 +187,10 @@ export default class SamplingScreenView extends PDLScreenView<SamplingField> {
       } );
     this.addChild( this.accordionBox );
 
+    if ( options.languageSwitchNode ) {
+      this.addChild( options.languageSwitchNode );
+    }
+
     model.fields.forEach( field => {
 
       // When a projectile is created in 'single' mode, play the launch animation
@@ -201,8 +216,20 @@ export default class SamplingScreenView extends PDLScreenView<SamplingField> {
     this.visibleBoundsProperty.link( visibleBounds => {
       const minY = PDLConstants.ABOVE_DEV_BOUNDS_TOP;
       const topY = Math.max( visibleBounds.top, minY );
-      this.launchPanel.top = topY + PDLConstants.SCREEN_VIEW_Y_MARGIN;
-      this.accordionBox.top = topY + PDLConstants.SCREEN_VIEW_Y_MARGIN;
+      const contentTop = topY + PDLConstants.SCREEN_VIEW_Y_MARGIN;
+
+      // When a language switch is provided in the top-right corner, keep both top panels in one aligned row below it.
+      // Align to the layout bounds (rather than visibleBounds) so the switch stays with the rest of the UI when the
+      // screen view is showing extra background outside the layout bounds.
+      let panelsTop = contentTop;
+      if ( options.languageSwitchNode ) {
+        options.languageSwitchNode.top = contentTop;
+        options.languageSwitchNode.right = this.layoutBounds.maxX - PDLConstants.SCREEN_VIEW_X_MARGIN;
+        panelsTop = options.languageSwitchNode.bottom + PDLConstants.INTER_PANEL_SPACING;
+      }
+
+      this.launchPanel.top = panelsTop;
+      this.accordionBox.top = panelsTop;
     } );
 
     ManualConstraint.create( this, [ this.accordionBox, this.launchPanel ],
@@ -213,10 +240,15 @@ export default class SamplingScreenView extends PDLScreenView<SamplingField> {
         }
       } );
 
-    // Position the time control node so that it is right-aligned underneath the accordion box
+    // Position the time control node underneath the accordion box, on the side requested by timeControlAlignment
     ManualConstraint.create( this, [ this.timeControlNode, this.accordionBox ],
       ( timeControlNodeProxy, accordionBoxProxy ) => {
-        timeControlNodeProxy.right = accordionBoxProxy.right - 3;
+        if ( options.timeControlAlignment === 'left' ) {
+          timeControlNodeProxy.left = accordionBoxProxy.left + 3;
+        }
+        else {
+          timeControlNodeProxy.right = accordionBoxProxy.right - 3;
+        }
         timeControlNodeProxy.top = accordionBoxProxy.bottom + PDLConstants.INTER_PANEL_SPACING + PDLConstants.TIME_CONTROL_MARGIN_TOP;
       } );
 
@@ -231,6 +263,7 @@ export default class SamplingScreenView extends PDLScreenView<SamplingField> {
     } );
 
     this.pdomPlayAreaNode.pdomOrder = [
+      ...( options.languageSwitchNode ? [ options.languageSwitchNode ] : [] ),
       this.launchPanel,
       this.launchButton,
       this.singleOrContinuousRadioButtonGroup,
